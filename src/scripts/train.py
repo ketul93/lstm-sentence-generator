@@ -77,7 +77,7 @@ for i, sentence in enumerate(x_data):
 
 ### ---------- Define Model ----------
 
-num_layers = 1
+num_layers = 2 #previous 1
 drop_out_rate = 0.2
 learning_rate = 0.01
 optimizer = RMSprop(lr=learning_rate)
@@ -160,15 +160,15 @@ print("loss: ", loss)
 print('loss history:')
 print(loss_history)
 
-# plt.figure(figsize=(15,8))
-# plt.rc('font', size=20)
-# plt.plot(loss_history, lw=3, c='orange')
-# plt.title('Cross Entropy Loss of LSTM Model over Epoch Iterations', fontsize=25)
-# plt.ylabel('Loss')
-# plt.xlabel('Epochs')
-# plt.savefig("loss.png")
-# plt.grid()
-# plt.show()
+ plt.figure(figsize=(15,8))
+ plt.rc('font', size=20)
+ plt.plot(loss_history, lw=3, c='orange')
+ plt.title('Cross Entropy Loss of LSTM Model over Epoch Iterations', fontsize=25)
+ plt.ylabel('Loss')
+ plt.xlabel('Epochs')
+ plt.savefig("loss.png")
+ plt.grid()
+ plt.show()
 
-# print(model.summary())
-# plot_model(model, to_file='model_plot.png')
+ print(model.summary())
+ plot_model(model, to_file='model_plot.png')

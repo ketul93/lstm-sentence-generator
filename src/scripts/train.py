@@ -28,6 +28,7 @@ import matplotlib.pyplot as plt
 from keras.utils import plot_model
 from helper import load_file, create_model, sequence_length, step_window, add_temperature
 import os
+from google.colab import files
 
 ### ---------- Load File and Build Vocabulary ----------
 
@@ -161,12 +162,14 @@ print("loss: ", loss)
 print('loss history:')
 print(loss_history)
 
-#plt.figure(figsize=(15,8))
+plt.figure(figsize=(15,8))
 plt.rc('font', size=20)
 plt.plot(loss_history, lw=3, c='orange')
 plt.title('Cross Entropy Loss of LSTM Model over Epoch Iterations', fontsize=25)
 plt.ylabel('Loss')
 plt.xlabel('Epochs')
+plt.savefig("abc.png")
+files.download("abc.png") 
 #plt.savefig("loss.png")
 plt.grid()
 plt.show()

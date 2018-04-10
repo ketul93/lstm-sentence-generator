@@ -66,7 +66,7 @@ def get_random_word(n=1, array=unique_words):
     return array[:n]
 
 # load weights
-weights_path = '_weights.hdf5'
+weights_path = '_weightsn.hdf5'
     
 model.load_weights(weights_path)
 model.compile(loss='categorical_crossentropy', optimizer='adam')

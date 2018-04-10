@@ -4,7 +4,7 @@ import argparse
 
 a = argparse.ArgumentParser(description="Train a model that, using LSTM Networks, is to generate sentences in English.")
 a.add_argument("-v", "--version", action='version', version='%(prog)s 1.0.0')
-a.add_argument("--data", help="path to training data (default: sample_data_short.txt)", default='lstm-sentence-generator/src/scripts/sample_data_long.txt')
+a.add_argument("--data", help="path to training data (default: sample_data_short.txt)", default='lstm-sentence-generator/src/scripts/sample_data_med.txt')
 a.add_argument("--epochs", help="number of epochs to train for (default: 50)", type=int, default=50)
 a.add_argument("--temp", help="select temperature value for prediction diversity (default: 1.0)", type=float, default=1.0)
 a.add_argument("--slen", help="maximum length for a training sequence (default: 15)", type=int, default=15)

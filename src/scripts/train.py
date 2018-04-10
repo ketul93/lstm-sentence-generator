@@ -161,7 +161,7 @@ print("loss: ", loss)
 print('loss history:')
 print(loss_history)
 
-plt.figure(figsize=(15,8))
+#plt.figure(figsize=(15,8))
 plt.rc('font', size=20)
 plt.plot(loss_history, lw=3, c='orange')
 plt.title('Cross Entropy Loss of LSTM Model over Epoch Iterations', fontsize=25)

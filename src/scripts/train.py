@@ -24,7 +24,7 @@ import math
 import random
 import sys
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 from keras.utils import plot_model
 from helper import load_file, create_model, sequence_length, step_window, add_temperature
 import os

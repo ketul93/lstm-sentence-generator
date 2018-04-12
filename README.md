@@ -1,4 +1,4 @@
-## Generating English Sentences Using LSTMs.
+## Chatbot conversation using LSTM nets
 
 Through the use of Long Short-Term Memory (LSTM) Networks, we aim to model the English language as closely as possible, such that model created is able to generate coherent sequences of words, namely, sentences. To achieve this, every word is transformed into a feature vector, which is used as input. Its corresponding output is the next most probable word to follow. The network will learn these probabilities through the use of a large list of human-generated sentences, more specifically the novel "Twelve Short Mystery Stories” by Sapper (Ronald Standish) <sup>[1](#projgut)</sup>.<br><br>
 
@@ -52,3 +52,5 @@ Directory Path: `/src/scripts/`
 	
 <br><hr>
 <a name="projgut">1</a>: This novel is available on the [Project Gutenberg website](http://gutenberg.ca/index.html).
+
+Thanks colab as life saver !!! :)

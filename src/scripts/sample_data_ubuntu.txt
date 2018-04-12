@@ -2537,3 +2537,1026 @@ hell, i'll go into gnome :/
 all i wanna know is how can i open it is there a shortcut or what
 I'm probably not gonna be much help then, sorry.
 Looking to install Ubuntu 5.10 on an old compaq PIII 500 with an odd notebook style CD-ROM CD-224E (Teac 24x).  Could someone advise what would be the best driver to use?  Generic is awful slow
+"Failed to start the X server (your ghapical interface). It is likely that it is not set up correctly. Would you like to view the X server output to diagose the pronblem?" I have tried the command [sudo dpkg-reconfigure xserver-xorg]  again to try re-configure and try different values, but nothing. The error happens on the page asking about the color depth, I tried the default of 24 and went all 
+driver for what?
+what happens when you try "sudo mount /dev/hda1 /mnt -o umask=777"
+I not found sun's java SDK on dapper. I enabled multiverse, universe. howto install sun's java SDK?
+CD-rom
+is dma enabled?
+oh shit, wrong error
+no error that time Managu!! just came back with a command line.
+If there's an error message, and you don't completely understand it, then copying the error message right down to the letter is important, as it is much more helpful for us to diagnose what's going on.
+it's a dma device, yes.  I have not gone thru with the install yet because of the CD-Rom troubles with the live
+overwriting possible-customised configuration file" I have tried the command [sudo dpkg-reconfigure xserver-xorg]  again to try re-configure and try different values, but nothing. The error happens on the page asking about the color depth, I tried the default of 24 and went all the way down to 8 bits and it still crashes. Any suggestions?
+there, that is the write error. my mistake
+ilesystem.  Look under the "mnt" folder
+so banshee will get the mp3 info from the ipod but be unable to play them and i can't eject the ipod, it only (improperly) unmounts. breezy (with banshee or gtkpod) is supposed to be able to deal with ipods
+does ati has problems with cedega?
+It would probably be quite helpful if you could pastebin, or otherwise give us all a copy of your /var/log/Xorg.0.log
+ok. its there, but when I click on it it tells me "you do not have the permissions necessary to view the contents of "mnt"
+I realize that might be a bit tricky when you lack a gui, of course.
+you could google and see if there's a specific driver for it
+Yeah I wasn't having much luck there
+haha, yeah I have no idea how to do that....
+hrmm.  /bonk me, I got the command wrong.  "sudo umount /mnt"  and then "sudo mount /dev/hda1 /mnt -o umask=000"
+LOL
+especially when my computer that im installing linux on isnt connected to any internet/network...
+Hey amphi, care to know what fixed my wireless?
+oh?  Getting it connected to a network would definitely be helpful
+there really isn't enough information in the stuff you've pasted above to diagnose your problem
+haha, getting it installed would be a better step first
+uhm
+let me see if I can get more information
+!tell compuwiz about flood
+Good job Managu!!!!!!!!!
+that task should be easier, and I'm not sure why there wasn't just an icon on your desktop to do all that
+but then, I'm only really an intermediate user
+it seems like perhaps r*dh*t supports it but they suck
+well I'm only a second time user, so you look like an expert to me
+now I just have to write that command down
+haha thanks, I get a little [enter] happy online. here is a path it gives me for the file. /ect/X11/xorg.conf.#############
+?
+"sudo tar zcvf backup myhomedir/ --exclude=myhomedir/.gconf" doesnt exclude correctly, but "sudo tar zcvf backup myhomedir/* --exclude=myhomedir/.gconf" (note the * after myhomedir) does?
+is there any way to get the disks manager to add to /etc/fstab?
+or should I just do it directly
+can someone help me with a HD problem?
+Well slow and the no eject thing but there is a program to solve that no?
+you want to look through /var/log/Xorg.0.log for lines that start with "(EE)".  One way to do that is to type "less /var/log/Xorg.0.log" and then press the keys [/]  [E]  [E]  [Enter] 
+I am a bit of a Linux newbie... I had red hat installed once awhile back...  and i have worked with linux before so I'm not like totally clueless
+:)
+?
+you have at least 'skimmed the manual' lol.
+it won't eject the cds
+okay I will try that
+if a program is accessing the cd they will be 'locked'
+it won't eject a live cd (unless you use the cp to ramdisk option (if it has one))
+Well I've been a unix computer operator for years so I do know a little
+many live cds have a 'toram' option you can use at boot time.
+Manago and psYchotic... Thanks for the help!!!!!!! Now I can play around some
+have fun =)
+ahh ok
+oh i will
+well i guess ill just go ahead with the slowness and work my way out... i have the sound card params
+thanks
+hi
+i have a p3 1ghz 256 ram well breezy run fine?
+should run 'ok'
+might be a little slow in the graphics department, but otherwise should be fine.
+once you have ubuntu installed, you may be able to tweak it
+may want to use a light weight window manager.  (like xfce)
+ya
+i dont want to do games or anything
+just like watch movies or play music
+openbox is pleasant
+openbox, is that a window manageR?
+one of the many XYXbox variants. FLuxbox, openbox, blackbox.. but MatchBox is Not related to the other Box's :P
+i'm having troubles with my repositories
+cool
+I've got some major install problems... I've tried installing dapper flight 5 and breezy both from working cd's.  breezy gets to the first reboot and then fails to load the kernel, so I edit the path to / instead of /boot and it loads but then fails to load some important modules and then I get 'can't access tty; job control turned off' i have a shell but it can't do much.
+will drake run  you think?
+dapper fails installing the base system chroot fails because it can't find apt-get
+metalhedd, did you test the discs ?
+yes
+both good
+what partitioning did you use?
+How can I download and install java through command line?
+just install stable, and dist-upgrade when dapper is stable ;)
+!java
+To install Java/Sun Java see Java on https://wiki.ubuntu.com/RestrictedFormats and also see !javadebs
+MY SYNAPTIC IS NOT WORKING PLEASE CHECK OUT THIS ERROR http://paste.ubuntu-nl.org/14427
+Thank you ^^
+please don't shout
+amphi, please help
+im getting 5.10
+/dev/hda1 is /boot and /dev/hda4 is /  the disk is not totally clean thoguh. i have a dir on hda4 that I saved all my media on, and for some reason theres a file with a wierd name that I can't delete in /etc/rc1.d
+Managu I found an EE on the log, its funny "No devices detected"........even though it automatically detected my card and it is listed in the log also. Is this due to the page where it asks me to locate the position of it like PCI location and such? Also, stupid question...I did what you said, and now I cannot exit out of that log?
+press Q to quit
+haha
+where do i get info on what plug-ins to use to connect to windows media streamlink
+nomasteryoda|w, ^^ incase you missed it, I didn't put your name sorry.
+I'd definitely leave the PCI id part empty when asked
+Howdy all
+okay, I'll try that.
+I've disabled my trackpad, so I have no idea ;)
+Which Java do I download and install?
+metalhedd,  i saw your posting
+nomasteryoda|w, ok, any ideas?
+amphi, i am stuck i need to install some software and i am not able to what could possible be the probleM?
+oh, and i would back up and format if it was possible to burn a dvd in the drive where this livecd is running right now.
+can I do that?
+Cryptid, try installing it from the commandline and tell us the error message
+=== linux_newbie is now known as linux_newbie2
+I have done that with slax, but not ubuntu live cd
+is there a program to allow me to set mount points of hard drives?
+isks
+sorry I'm using xfce so I'll need to install something
+I'm having problems installing Ubuntu and I've managed to screw up the GRUB that I had set up...can anyone help me get GRUB set back up so I can get back into windows?
+metalhedd, how do i install it from command line??? sudo apt-get synaptic????
+Can anyone recommend a multimedia authoring program for linux?
+Cryptid, sudo apt-get install packagename
+is there apt-get for vnc?
+audacity
+audio?
+kino is good for making DVD's
+movies rather
+is it easy to make desktop icons in openbox
+Rug. Looking for something like authorware. A high level tool to build interactive educational simulations
+Managu,can u help me repairing my grub?..i followed the wiki but still wont work.need your help
+metalhedd, please check out the error i got http://paste.ubuntu-nl.org/14428
+ahh sorry
+is there apt-get for vnc?
+tagabasak_, can you boot with "root= "?
+I also need help repairing GRUB *please*
+dli, im booting on live cd..
+dli, i got a root priviledge now
+tagabasak_, no, booting with " root=/dev/blahblah" kernel parameter
+That's what I thought. Not much available. Might be possible to build a toolbox in something like pygame.
+tagabasak_, you know your hdd / partition?
+PCI Mach64 at location 5:0:0 and 5:0:1 could not be detected" Even though when it detected the correct card, the ATI X800...
+have you done sudo apt-get update ?
+dli, dnt know about it.. sorry, my case is i dual boot i installedubuntu first then i  installed windows after.
+wuwuw
+amphi, ya i have done even that and this is the error i get for that http://paste.ubuntu-nl.org/14429
+I got printer sharing going!!!
+YAY!
+lol
+s!ping
+I pulled an old hd that had windows xp loaded on it.  any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+!ping
+pong
+ouch you can mount it lowroad
+tagabasak_, okay, you need to know you hdd partitions, play with commands, " fdisk -l /dev/hda "
+it is in an extermal cage
+IDE?
+mr_foamfingermak, i did that, but i mean to load the emails to ubuntu thunderbird
+you should be able to mount a windows volume
+ahh ok
+amphi, where is the file situated where are the repositories are stored??
+Is there any type of import wizard?
+wtf? why is it trying to connect to localhost?
+dli, my linux partitions is on /dev/hda2 and my windows is on /dev/hda3/
+/etc/apt/sources.list
+amphi, i duuno?
+hey all!
+hello
+I have a somewhat strange question..
+I'm interested in working on various issues relating to medicine and free software in Africa.
+no the pinapple will not fit all the way in...
+XD
+any1 can help me with installation of qt4?
+lol
+specifically, there's a project relating to 'online learning software' that would be interesting to try to get some free software expertise on.
+tagabasak_, okay, " mkdir /mnt/hda2 && mount /dev/hda2 /mnt/hda2 "
+sorry, those wiki articles have much better info than I have
+It seems the most likely candidate is Shuttleworth.. Is there some way to contact him directly?
+)
+metalhedd, did u find any solution for my problem???
+heh
+hehehehe ; )
+=== xsmogx is now known as smog
+I pulled an old hd that had windows xp loaded on it.  any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+ancient card, ehh?
+To be honest, I wouldn't even ask, but when I wanted to talk to RMS about http://blogs.zmag.org (the blog for a large left publication that we were trying to take free software), I emailed him and he responded..
+Cryptid, sudo apt-get update
+with nothing else after update
+mdli, got it now
+ny1 knows how to package python code?
+dli,got it now
+metalhedd, i get this error when i execute that command http://paste.ubuntu-nl.org/14429
+should we not encourage the use of synaptic for this?
+tagabasak_,  " chroot /mnt/hda2 /bin/bash --login "
+it's worth a try, but I don't have his email addr
+I can't really find an email address for him is the thing.
+what happened with zmag?
+any suggestions where I might find it?
+orangey, synaptic doesn't give very useful error messages
+blogs.z is now running drupal. The whole project is expected to go to free software by jan 1 2007.
+dli,done
+google? (ie. no idea, sorry)
+cool
+Cryptid, sorry, I'm on a liveCD. the browser takes about 1.5 minutes to launch
+https://launchpad.net/people/sabdfl
+If you're interested in joining the project, check out http://znet.2y.net , or email me directly.
+tagabasak_, check whether your /boot directory is okay, in the same terminal, " ls -l /boot/ "
+hey does any1 know if executables created in linux can be executed in windows?
+metalhedd, shit man i guess i will come back some other time i might get some help then
+metalhedd, amphi bye
+generally (almost always) the answer is "no"
+dli,  owner=root group=root
+ok thx
+tagabasak_, what about files under /boot/ ?
+I pulled an old hd that had windows xp loaded on it.  any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+how can i know the name of a .deb package for uninstall it ??, for example if i install once amsn and now i need to uninstall it, how can i know the complete name of the package ??
+tagabasak_, okay, " grub-install /dev/hda "
+!apt-get
+[apt-get]  http://www.debian.org/doc/manuals/apt-howto/apt-howto.en.txt (in depth) and https://wiki.ubuntu.com/AptGetHowto
+alternately, you might use Synaptic to uninstall it
+probably save you a bit of headache
+thank you. It seems like his email address is hard to come by, but perhaps I'll contact the shuttleworth foundation and see how that goes.
+dli,a second
+Managu, but there is a way using script by console ??
+sure.  That was what Dr_Willis offered, via ubotu.  Here's a repeat
+!tell cocox about apt-get
+there are email addresses on that page (bottom left)
+hola
+aha! Thank you.
+Managu, of course thnx but my question was in the beggining how can i know the name of the package that i installed once , plz be patient
+any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+use "apt-cache search blahpackagestiff" to get the package name (less any version info, dates, builds, etc), then "apt-get remove package name"
+=== Smokeh is now known as lolipod
+np :)
+I pulled an old hd that had windows xp loaded on it.  any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+history
+Managu, i'll check this howto thank u !!
+I suppose I don't understand.  If this is a one-time thing, why not just use the gui tools?
+Managu, yes but i prefer to get involve with the console commands for use them anytime without a GUI
+*shrug* ok, as you like it.  Right tool for the job and all.
+good on yer ;)
+amphi, i didnt understand your phrase lol
+no worries
+Managu, thank u ;)
+dli, i got an error, it says that /dev/hda does not have corresponding bios drive
+heh, me either.  I took it as a cross between "good for you" and "looks good on you"
+can anyone help me please, I need to get GRUB fixed
+read the wiki howtos?
+tagabasak_, sorry, my fault
+where?
+tagabasak_, " exit "
+!tell linux_newbie2 about grub
+dli, ok
+tagabasak_, try again
+tagabasak_, " mount -o bind /proc /mnt/hda2/proc "
+dli,try what?
+dli, ok
+tagabasak_, " mount -o bind /dev /mnt/hda2/dev "
+tagabasak_, " chroot /mnt/hda2 /bin/bash --login "
+broken pipe. cannot fwrite
+hi
+this when i try to burn a cd
+what version of python is installed in the ubuntu live cd ?
+I'd make a coaster out of it
+What's a good limewire client?
+!limewire
+first you need !java, then download the http://www.limewire.com/LimeWireSoftOther and unpack it. Then just run the runLime.sh file. Voila. Consider !frostwire as an alternative.
+is there a way i can rip the audio tracks only from my dvd?
+tagabasak_,  and now, within chroot, " grub-install /dev/hda "
+anybody who knows what python version is installed in the live cd ?
+how do i tell if a firewall is up or not
+I pulled an old hd that had windows xp loaded on it.  any idea on best way to extract the emails on thunderbird to my ubuntu thunderbird?
+dli, do i have to make direcory proc on my dev/hda2?
+pretty sure it's 2.4
+Is there no KDE limewire client? Or any Linux native client?
+Managu, anyway to stop making coasters?
+tagabasak_, you should have " /mnt/hda2/proc " already
+thanks bimberi
+Papageno, no idea, I don't run the thing myself
+np :)
+slow machine?
+or old/cheap cd-writer?
+i don't think so it has burned before
+yeah old cd-r
+haven't used it in a while
+dli, too bad i dont have =(
+dli, why i dnt have that directory?
+tagabasak_, mkdir
+No specific details, but it looks like your system can't take building the iso image and burning it simultaneously.  Things might work better if you did those seperately
+humm
+thanks
+!frostwire
+how can i screen capture in mplayer?
+methinks frostwire is a free peer-to-peer application that runs on the Gnutella network. See https://wiki.ubuntu.com/FrostWireHowTo
+mikebot, run mplayer like, "mplayer -vo x11 "
+I have to ask.. where does this "OMG PONIES" inside joke come from?
+orangey, have you ever been around a 6 year lod girl?
+lod?
+=old
+Ok. so they like ponies..
+Untill they see how dirty the things are.
+:P
+It's not new as I can recall from my childhood. how did we get involved?
+dli, sorry?
+Managu, no dice
+i tried to burn from a iso
+are the HD and the CD-R on the same IDE controller?
+dli, what do you mean by within chroot?
+how would i open the home directory in the terminal?
+tagabasak_, after the command chroot
+it's a laptop so i think so
+dli,ok
+how do i tell if a firewall is up or not
+i'm trying to ssh in and it says the connection is refused
+Hello everyone, I am kinda new (totally actually) to linux, I am looking for some assistance in setting up a LVM share, so I can place my cross platform media onto one machine, would anyone mind feilding a few questions?
+mugzie, open a term an hit ls
+I'm a bit confused -- you certainly get a different error, no?  mkisofs shouldn't be involved at all
+!ssh
+ssh is, like, totally, https://wiki.ubuntu.com/SSHHowto or https://wiki.ubuntu.com/AdvancedOpenSSH
+i got that error once
+dli,it say cannot change root directory to grub-install
+so the mkisofs what does that refer to?
+help
+mkisofs is a program which creates an .iso image from a bunch of files
+I have two SATA 300 GB Drives,  I want to make the empty space ( / )on the SDA and the whole new SDB drive span together into one big 500GB volume, so iTunes enjoys the placement of a single folder
+|Sivik|, most likely you don't have an ssh server installed
+literally "make ISO filesystem"
+Since my SDB is empty, should I make the 8E a primary or a Logical partition?
+i pressed ls but i dont get the pop up i wanna delete somthing in there
+im weird
+to burn an iso, just do cdrecord foo.iso (assuming /etc/default/cdrecord is correct)
+ok
+ok
+how would i do that get the home to open in a window? in terminal
+|Sivik|, sudo apt-get install openssh-server
+home
+no, im weird im weird
+i ate one of my keyboard
+How do I install frostwire ?
+tagabasak_, can you run " grub ", instead ?
+im weird
+|Sivik|, once that's done, you should be able to ssh into the box. :)
+where can i find a technical help for ubuntu?
+i ate one of my keyboard key
+!frostwire
+it has been said that frostwire is a free peer-to-peer application that runs on the Gnutella network. See https://wiki.ubuntu.com/FrostWireHowTo
+k
+the number between 3 and 5
+im weird
+if you really are averse to using the mouse, you can open the menus with alt-f1
+I looked over those wiki help pages, but the I'm not sure which steps to use.  I've removed GRUB from the MBR and don't have Ubuntu installed on any partition, although I have partitions for it set up.  I am currently on a Knoppix live CD
+Thank you ^^
+eggzeck, i knew i was missing something, but i couldn't remember
+im weir dim weirdir mei rwmiwmdi wmdiwe
+dli, im on grub now
+amphi,  well that gave me some new errors   9 cdrecord  fo.iso
+|Sivik|, hehe, cool. I sometimes forget things too. :)
+no managu i have to do it through terminal cause im on ice lite
+eggzeck, thanks a bunch
+|Sivik|, you're welcome.
+hrmm.  "nautilus &" , perhaps
+amphi, where could i find technical help for ubuntu?
+eggzeck, its now saying that the host key verification failed
+Empty Secondary hard drive, and I am making it one big partition to add to my LVM, do I want to make it a primary or logical partition???
+what do you mean? you could ask in the channel...
+has anyone here successfully got windows media to play in ubuntu?
+elp...
+actually, dli and tagabasak_ are tackling a very, very similar problem.  You might want to scroll back and look at some of their conversation
+|Sivik|, and then?
+ahhh... ok
+it goes back to the #
+disinterseted_pe, wmv & wma files? of course.
+dli,what should i do next?
+oh, wait.  Hold on, I'm confused
+ok what packages do i need to install for them?
+tagabasak_, within grub ?
+what is it you're trying to accomplish?
+ubotu, tell disinterseted_pe about restricted
+dli,yup
+amph cd record is looking for a -scsi   and telling me that thje 2.6 kernal hates it
+eggzeck, it talks about some crap about "IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY" and a bunch of other crap and then says Host key verification failed
+tagabasak_, " find /etc/hosts "
+it's scsi or ide?
+tagabasak_, we want to double check, it's hd0
+ide
+the only OS I have set up successfully right now is Windows...I am just trying to get the MBR back in order so I can get into it, for starters
+ssh ?
+ive been there
+in a gateway laptop i am 100% sure that is ide right
+HymnToLife, yes
+then I have to figure out why Ubuntu won't install :P
+have a Windows boot disk?
+do cdrecord dev=ATA -scanbus
+yes
+dli,file not found
+rm ~/.ssh/known_hosts
+tagabasak_, you didn't typo ?
+disinterseted_pe, see the w32codecs info on that RestrictedFormats site
+I tried fixboot and fixmbr and it can't boot the os
+I knew what to do with windows9x; I don't know how windows2k+ work.
+dli, what is typo?
+tagabasak_, maybe, " find /boot/grub/menu.lst "
+HymnToLife, and then try ssh again?
+dli, sorry im really a newbie
+but, honestly, the problem isn't a linux problem.  You need to reinstall the windows MBR
+ok ty
+take the number and put a line in /etc/default/cdrecord like CRD_DEVICE=ATA:1,0,0 where the '1,0,0' are the numbers that command shows you
+yep
+is this where yuo can go for help?
+HymnToLife, same thing
+I agree
+run the command on the client, not the server
+I thought maybe I could get GRUB back up and use that though
+then you won't need to specify the device to cdrecord every time
+since it used to work before I screwed up my linux partition
+hrmm, I suppose that's a possibility.
+HymnToLife, already doing that, can a server not be a client for something else?
+IS this where you go for help?
+dli, w8 did you mean that i should be on grub prompt?
+lemme see
+ubotu, sudo dpkg -i FrostWire-4.10.9-1.i586.deb, will not work why?
+let me try something
+Not a clue. Try searching at http://ubuntu.cc.com.au/, Taru
+Mr, it is - just ask a question, don't ask to ask
+tagabasak_, yes, within grub
+how do you "upgrade" releases?
+I doubt it, funny though, whenever I get that message, deleting known_hosts does the trick
+Taru, ubotu is a bot...
+from a root command line, how bout you run "grub"
+depends on the help
+grub
+linux_newbie2 (and pray that knoppix has grub)
+gnome- and XGL rulez in ubuntu
+:)
+done
+HymnToLife, i have ssh server installed on this machine as well as the laptop and i can log in from the desktop to the laptop but not the laptop to the desktop
+HymnToLife, i get that error
+I used gnome and xgl in suse and in ubuntu is better starnge maybe bacause we use gnome 2.14
+ubotu, Thank you ^^
+no problem, Taru
+HymnToLife, can you tell me the right repo needed to install mplayer?
+tried running the command on both ?
+dli, still not found =(
+put it on your hard drive.  It's been a while since I did this, so I might not be remembering the incantations correctly.  Also keep in mind that we're in data-loss mode, so things could get better or they could get worse
+HymnToLife, no
+i am having problems getting my display to work properly
+universe if I remeber well
+!info mplayer-586
+7940 kB
+I believe the grub command you want is "setup (hd0)"
+tagabasak_, leave it there, open another terminal, " cd /mnt/hda2 "
+my bad, it's multiverse
+what are the problems?
+HymnToLife, yes, but what is the url and stuff for the multiverse
+tagabasak_, " ls -l etc/hosts ", " ls -l boot/grub/ "
+Invalid device requested
+it should be in your sources.list, just uncomment the lenes mentioning it
+is it setup (hd0, 0)?
+HymnToLife, already did that, still doesn't find it
+I installed krusader 1.7 even though Breezy/Dapper use krusader 1.6 (which doesn't work for me).  I have to use the --ignore-depends option, as in  "dpkg --ignore-depends=kdelibs4c2 -i /boxln/root/apt/archives/krusader_1.70.0-0kubuntu1_i386.deb" to get it to ignore the dependency problem.  But every time I try to install something else, apt-get tries to get rid of krusader.  What can I do to tell apt-get to continue ignor
+i purchased some tv shows on dvd. i'd like to rip the commentary tracks only (i.e. no video) is there a way to do this?
+AMD64 ?
+amphi, the cdrom is at /dev/hdc   what does that tell me?   and the dev=ATA   looks on /dev/hda
+no, that would be a bad idea
+!pastebin
+http://www.gnomefiles.org/app.php?soft_id=1269
+HymnToLife, nope
+I tried using "pinning" in /etc/apt/preferences, but now apt-get won't install anything else.
+hi. anyone knows of a good anime wallpaper site? something that compares to www.sexydesktop.co.uk?
+that would wipe out your windows partition's boot sector, and you'd be back at reinstalling from there
+sorry i guess this belongs in #ubuntu-offtopic... nm
+pppoe_dude,  :P you pervert. :P
+what happens when you sudo apt-get install mplayer-586 ?
+eep! ok
+dli, igot /etc/hosts
+pppoe_dude,  heh -  let me check my bookmarks :)
+wtf? pastebin the output of cdrecord dev=ATA -scanbus
+The resolution is at 640 X 400, its a 19" LCD capable of 1280 X 1040; i tried changing it through the settings (only 640X400 was avaliable) and i edited the xorg.conf file deleting all but 1280 X 1040
+hrmm.  I guess you "quit"
+lol
+madpiolt so does that mean its not possible without paying for the media player?
+and try "grub_setup /dev/hda"
+tagabasak_, no, " ls -l /mnt/hda2/etc/hosts "
+command not found
+have you tried 'sudo dpkg-reconfigure xserver-xorg'?
+Mr, sounds like a driver problem or a video-bios related problem
+err, guess it's "grub-install /dev/hda"
+HymnToLife, http://paste.ubuntu-nl.org/14430
+yah i tried it
+dli, i dont have grub folder on /boot
+i read it in the comment of the conf file
+nothing
+HymnToLife, thats my current sources.list plus a small error that i'm getting
+tagabasak_, not /boot, /mnt/hda2/boot/grub/
+Not found or not a block device
+i have foedora and never had a problem
+what is your video card?
+I know the error you're getting
+HymnToLife, ok
+look at the topi
+right.  Sec
+topic*
+how do you mount cd images?
+"Failed to find mountpoint for device /dev/hdc in /etc/fstab". Any suggestions?
+HymnToLife, how do i get it to post the topic again
+HymnToLife, its so far back, i can't view it
+!topic
+MorbidHunger, " mount -o loop foo.iso /mnt/blahblah "
+/topic
+HymnToLife, ok
+thats it?
+i dont have to download anything?
+nope
+Intel extreme graphics 845 gv
+the Kernel does the trick
+HymnToLife, its working now
+have the right driver intsalled?
+ok
+always read the topics ;)
+dli, ok got all
+i purchased some tv shows on dvd. i'd like to rip the commentary tracks only (i.e. no video) is there a way to do this?
+dli,what i do next?
+HymnToLife, i took the us out of all of them, but i'm still getting the same error
+tagabasak_, okay, " mount "
+ls
+did you sudo apt-get update ?
+so how would i be able to open up my documents through like terminal all my stuff is saved on like desktop but how would i open them im on ice lite so i have to use terminal
+HymnToLife, http://paste.ubuntu-nl.org/14431
+tagabasak_, do you see ,  /mnt/hda2/dev /mnt/hda2/proc in the output of " mount "?
+HymnToLife, thats when i get that error
+when i run apt-get update
+hi there
+dli, yep
+i need some help because i'm getting mad
+ The documentation I'm seeing doesn't really suggest a cure using grub
+for me is impossible install a tar.gz
+i do all good
+tell me, what happens when you try to boot your machine now?
+pastebin your new sources.list please
+but ./configure doesnt work
+how would i be able to tell that
+anyone?
+know
+tagabasak_, okay, in the previous terminal, in grub, " root (hd0,1) "
+im so confused
+It says could not boot the operating system
+why are you installing from source
+how do i unmount?
+I want to install some dictionaries for open office and is a tar.gz
+HymnToLife, http://paste.ubuntu-nl.org/14432
+then i went to konsole entered the directory
+MorbidHunger, umount /dev/devicenumber
+umount
+ok
+but when I tipe ./configure
+what is PQserivecs root?
+just umount?
+or umount /mount/point
+says me no file or directory
+umount, not unmount
+this is going to sound silly, but I think you want to try reinstalling ubuntu
+ok
+thanx mate
+dli, file system is ext2fs
+HymnToLife, whats wrong
+not sure how to 'see' what driver without reconfiguring the xserver
+at the least, you'll probably get grub back
+that bug is fixed in plan 9 ;)
+hmmm
+tagabasak_, now, " setup (hd0) "
+hi guys, can anyone provide any information on setting my laptop up to dual-boot ubuntu and windows?
+well, I have tried twice, with a Ubuntu CD I DLed today and with an Edubuntu 5.10 CD that has worked on other machines
+did you install windows first and then ubuntu?
+they both fail when installing the base system :(
+well i have booted from the live CD and the resolution was fine
+dli,done
+tagabasak_, make sure grub was run right after "chroot"
+RemyLaptop, did you install windows and then ubuntu?
+dli, is houl rebbot?
+tagabasak_, " quit "
+so then, how I install a tar.gz???????? what I must do
+tagabasak_, " exit "
+linux_newbie2, sounds like your HD is not clean
+when you try to boot, do you get anything other than a generic "could not load operating system" message?  Anything at all?  Does GRUB say soemthing?  Is there a disk error?
+running the CD check says they both have a problem with a file on the disk, but I know the edubuntu one has worked on another machine
+what version+
+linux_newbie2, try formatting it clean
+|Sivik| - I currently have ubuntu installed ( an no spare partitions), but i'm planning on going again completely from scratch...
+tagabasak_, you may reboot now
+?
+http://fkraiem.no-ip.org/stuff/sources.list
+5.10
+dli, ok
+when is dapper going to be released?
+some one i installed it from
+never
+!dapper
+**** News Flash **** Dapper has its own channel #ubuntu+1 please join there for dapper (the beta of the next release) configuration, install,  or other conversation, dapper will be in #ubuntu starting 1st of june :-) But not until than
+i had the live DVD
+june 1st
+RemyLaptop, so you don't currently have windows installed?
+because i see how to do it on the sites... but ./configure never work
+before I did the fixmbr from the windows disk, GRUB gave an error 15
+thank you
+|Sivik| - no
+oi, I remember error 15
+dli,hope it works *__*
+whoever does the ubotu bot, it should be "then" for the last word of that dapper statement ;)
+lemme see.  Maybe lilo would be more useful to you here.  It's a lot less testy on install
+how long does it take to mount an image?
+fine by me
+how can i screen capture in mplayer?
+why are you trying to compile from source?
+Managu, lilo is not used with ubuntu
+yep
+Anyone willing to help me out with a samba woe?
+the ubuntu grub will find the windows partition
+just a frame?
+NytShade, whast the problem
+i want to make a deb or something installable
+amphi, yeah
+fair enough, also not particularly relivant to our discussion ;-)
+!grub
+http://www.gnu.org/software/grub/manual/grub.html#Troubleshooting
+use the x11 driver
+at this point I just want to get back to windows before I give Ubuntu another shot
+thanks |Sivik|
+and then whatever you like, gimp for example
+i purchased some tv shows on dvd. i'd like to rip the commentary tracks only (i.e. no video) is there a way to do this?
+feryana, the question is, why are you doing that? isn't what you need in the ubuntu repositories?
+amphi, someone told me to do "mplayer -vo x11", but i don't know whatto doa fter that
+feryana, dpkg -i yourdebher.deb
+Managu, i tell you this because if the person were to install lilo and then updated their kernel they would not have a working system
+I've installed it and SWAT, but when I log into swat it doesn't give me any configuration options. As though I'm a guest.
+yes, that's what I'm saying
+is a software unmounted on tar.gaz and i want to run that software
+Hey there
+another question, I've plugged in an external HDD, and it's recognised it, but as read only... how can I make it so I can write to it ?
+amphi, but when i type that, it just gives me a list of commands...then what do i do?
+feryana, what software is that?
+try the vesa driver, althogh you won't be able to do anything graphic intensive
+ooodi-0.68-i686-linux.tar.gz
+mplayer -vo x11 whatever
+is a installed for dictionaries for open office
+indeed, I'm somewhat familiar with the difference
+how would i do that
+i've downloaded like that
+is there not a package for that?
+amphi, i understand typing "mplayer -vo x11" in terminal...but now how do i get the screen i want into a jpg?
+nop... just that file
+lemme see.  Is there an /etc/lilo.conf on your current system?
+NytShade,  the ubuntu packagtes proberly have it 'locked down' for security reasons - check the wiki/forums for what needs to be done to reenable full use of it.
+|Sivik|, can you help?
+dli,  yey got it now, i just have to edit my menu.lst  t_T
+'sudo dpkg-reconfigure xserver-xorg'
+I just what to install some spelling dictionaries for open office
+tagabasak_, update-grub
+and I just finded that
+|Sivik|, thank you. I'll look again.
+!pastebin
+http://www.gnomefiles.org/app.php?soft_id=1269
+foo.png, there are many
+i've installed the build-essential
+but i can't do more
+amphi, how in gimp..that's what i'm asking
+yes
+are the dictionaries not packaged?
+oh, good.  Can you pastebin a copy for me ot look at?
+quire IIRC
+at least i don't find them
+i just finded that one
+is it a holiday in the US tomorrow ?
+|Sivik|, is there a better way to serve files to windows pcs over the network?
+nope
+no
+not that i know of
+monday week
+amphi thank you
+dli,why im on Busybox
+the monday after that
+monday week is when Memorial Day is observed in the US
+what is remembered?
+29th of May
+the veterans amphi
+dli,it stops loading and promptind BusyBox
+ah
+That's a good question.  Like an idiot, I don't know the history of Memorial Day
+yeah that is when will celebrate that we won the war
+NytShade, not really
+uh, having some kind of clipboard issue, it won't paste into the box :P
+mathieu, no
+so then, there is no way to install or pack a tar.gz file?
+mathieu, its next monday we have a holiday
+tar zxvf foo.tgz
+nm
+another question, I've plugged in an external HDD, and it's recognised it, but as read only... how can I make it so I can write to it ?
+i have a radeon 7200 and i'm trying to get my monitor to display on tv? any help?
+heh
+NytShade, are you trying to get files from a windows box to a linux box?
+for somereason its not mounted
+i shall intalld daemon tools
+http://paste.ubuntu-nl.org/14433
+have fun, ati is a bitch in linux
+aste didn't work, but middle-click does...ok...
+boy oh boy
+not too good to hear...
+sec, reading
+|Sivik|, I'm setting up this ubuntu box as a testbed and a fileserver. I'd like to get it working as a fileserver before the end of the night :)
+and what I must do with the files?
+there is one oooodi.install
+and others
+NytShade, so your trying to access the files from the ubuntu box to the windows box?
+dli, i got an alert it says that /dev/hdc2 doesnt exist. dorping to a shell
+OTOH, that's an old card, so it should be well supported - radeontool might be of use to you
+radeontool?
+what I do with that?
+radeontool
+tagabasak_, it's /dev/hda2
+a channel?
+dli, what shoul i do?
+how can i change vncserver's default window manager? i.e. switch from gnome to kde
+|Sivik|, and vice versa.
+no, a program - it's packaged; apt-cache show radeontool
+tagabasak_, you can type 'e' to edit grub entries
+"other=/dev/hda1" and "label=windows"
+NytShade, to get files off of the ubuntu box, use a scp program in windows
+actually, it has nothing to do with tv out, sorry ;)
+then run "lilo" as root
+heh, ok then
+I believe my windows is on hda2
+oh?  What's on hda1?
+NytShade, and in ubuntu, make sure the windows firewall is off and then you should be able to use samba
+I think GRUB lived there?  It's a small partition
+dli,it stops loading, i cant login to gui.. becaus of the alerts. im on a shell now.
+atitvout might be useful
+you can run "fdisk -l" to be sure who's what, but if windows is on /dev/hda2, that's what you want in the "other" field
+tagabasak_, reboot, change in grub
+|Sivik|, not using any firewall software on any of the pc's in the home's network.
+NytShade, yes, but is the normal windows firewall on?
+that's what I was thinking of
+|Sivik|, No
+u guys know how to unrar something
+thanks, amphi
+where are the ipw2200 drivers located
+dli, how could i do that?
+!tell MorbidHunger about rar
+windows fw only blocks/monitors incoming connections
+NytShade, thats weird
+ipw2200.sf.net
+here's a simple question hopefully
+are they not in synaptic?
+tagabasak_, boot livecd
+amphi what I must do with the files inside ?
+yeah, windows is on hda2
+I have no idea
+|Sivik|, how so? I shut it off ages ago.
+KaosX, yes i know that, but hes trying to access the windows files from samba on the ubuntu box
+dli,ok T_T
+NytShade, i didn't say it was on
+how do I keep my second hard drive (hdb1) mounted each time i reboot
+NytShade, i just asked if it was on
+they're in the install IIRC - modprobe ipw2200 should work
+ray_, you have to put an entry in /etc/fstab
+edit /etc/fstab
+stick it in fstab
+NytShade, when you run samba, it should see the mshome network
+=) damn beat me to it
+Rug, i love you too
+does anyone know if gentoo or actually kororaa have a synaptic type package system to install packages?
+but atleast we are better then amphi
+bit after my bedtime here, so I'm gonna be going shortly
+NytShade, or whatever you currently have it named as long as your have the same network address and the same subnet mask for both computers
+anyone know of any problems or issues running Dapper on an Opteron?
+much ;) but then I'm on rural dialup
+go to #ubuntu+1
+nice excuse.
+thats the dapper help channel
+!dapper
+**** News Flash **** Dapper has its own channel #ubuntu+1 please join there for dapper (the beta of the next release) configuration, install,  or other conversation, dapper will be in #ubuntu starting 1st of june :-) But not until than
+join the club :)
+No entry for device-mapper found
+Yeah, already asked there -- not much feedback :)
+excuse, perhaps, but hardly 'nice'
+I have never heard of dialup lag affecting IRC
+;)
+still having trouble mounting
+No suck device
+it does if you do anything else
+*such
+so exactly what do i need to do to play windows media on ubuntu?
+lol
+'/proc/partitions' does nto match '/dev' directory structure
+what's at the end?
+now, just to be sure... it should be /dev/hdb1 and not /dev/hdb?
+|Sivik|, they are both on the same workgroup and subnet.
+does anybody have any ideas ?
+Trying to map files from unnamed device 0x000e (NFS/RAID mirror down?)
+yes
+thanks, rug
+you guys are awesome
+Take that back!
+ok, well, seems that didn't work.  And I'm out of ideas.  Got that backup of your windows partition handy?
+heh, I still have an old motorola 14.4 pcmcia modem somewhere
+I am not!!!!
+ha
+oy
+hi
+NytShade, just because they have the same subnet doesn't mean they are on the same network
+My first modem was a 300/1200 Switchable MANUAL "Pocket Modem" for the C64
+where can I get a spanish dictionary for openoffice
+I ran a BBS on that thing
+NytShade, you have to verify that the network portion of the ip address's are the same
+like the same probably first 3 parts of the ip address
+NytShade, are you using a external ip and an internal ip?
+grr im so confused
+does ubuntu only support 1024X768 or is my graphics card not installed properly?
+manual? acoustic coupler? ;)
+you probably dont' have it install correctly
+would the window bootloader be having issues because the windows parition is not first?
+You would dial the number with the telephone in your hand, and when the other end picked up, you switched on the modem and entered ATA+ in the term
+linux_newbie2, shouldn't
+the things we've tried have kept running into the fact that linux doesn't know the mapping from bios drive numbers to logical drive numbers.  Solving that might help.  You might also try using cfdisk to make sure that the windows partition is set "active" or "Bootable", or something
+not quite that bad, but VERY close!
+heh
+is there any other way to mount cd images?
+dli, what should i do now?
+ah, it is not!
+mount -o loop -t iso9660 foo.iso /mount/point
+yes it does support it.
+the linux partition is set as boot
+Where can I download a spanish dictionary for openoffice????????????
+|Sivik|, they are both using addresses assigned by the router's DHCP service.
+HymnToLife, can you repost the url for your current soucres.list
+should be an easy fix
+thats not working
+NytShade, then they should be on the same network
+tagabasak_, correct your /etc/fstab /boot/grub/menu.lst on hdd
+NytShade, are you running the GUI for samba?
+should I unmark the Linux partition as bootable as well?
+http://fkraiem.no-ip.org/stuff/sources.list
+|Sivik|, there is a gui?
+edit the /etc/X11/xorg.conf file and input the resolutions you want.
+yup.  Though I don't think you can have 2 bootable partitions (I could well be wrong)
+rug, i almost missed that.
+that is the way to do it; perhaps the image is corrupt? what does 'file whatever.iso' say?
+dli,do i have to mount again?
+NytShade, are you trying ti run samba in command line?
+how can i start a vnc session with kde as a wm instead of gnome
+atitvout supports radeon 7200?
+It seems that ubuntu is a little slow is there any way to speed this system up?
+tagabasak_, yes
+thats why its easier to tie samba to an interface rather than a network
+I belive so, yes.
+maybe ;)
+|Sivik|, I belive so, yes.
+define slow.  (slow, how?).  There might be a way to address your issue
+okay, i'm about to install it
+print version
+print this help
+list mounted filesystems
+idem, including volume labels
+So far the informational part. Next the mounting.
+The command is `mount [-t fstype]  something somewhere'.
+NytShade, thats the hard way to do it
+Details found in /etc/fstab may be omitted.
+mount all stuff from /etc/fstab
+how do i run it once it's installed?
+mount device at the known place
+mount known device here
+ordinary mount command
+The Gnome X GUI interface
+Note that one does not really mount a device, one mounts
+!tell morbidhunger about paste
+a filesystem (of the given type) found on the device.
+!paste
+Please don't flood the channel! For best results use the pastebin at http://paste.ubuntu-nl.org/ and tell people the URL
+One can also mount an already visible directory tree elsewhere:
+Wrote partition table, but re-read table failed.  Reboot to update table.  Toggle bootable flag of the current partition.
+|Sivik|, easy way being?
+       mount --bind olddir newdir
+or move a subtree:
+       mount --move olddir newdir
+Also firefox is a little slow.
+A device can be given by name, say /dev/hda1 or /dev/cdrom,
+NytShade, kde or gnome?
+or by label, using  -L label  or by uuid, using  -U uuid .
+[-nfFrsvw]  [-o options]  [-p passwdfd] .
+the manpage says "atitvout - ATI Rage/Radeon TV Out configuration program"
+For many more details, say  man 8 mount
+Where can I download a spanish dictionary for openoffice????? Please!!!!!
+worth a shot
+thats what it says
+id burn it, but i have no cdrs
+Stop flodding the channel!
+i have a removeable drive that keeps getting mounted read only, what can i do
+ok ok
+|Sivik|, um default...
+someone asked a question
+i answered
+I have just had ubuntu 5.10 for about a day or two and my girlfriend says it slower than fedora core
+Where can I get the original sources.list for Ubuntu Dapper Beta?  I seemed to have messed mine up.
+well, I am on LiveCD, so just reboot?
+!paste
+Please don't flood the channel! For best results use the pastebin at http://paste.ubuntu-nl.org/ and tell people the URL
+manpage? sorry, i'm very new to this obviously
+yup
+whereeee, http://www.handango.com/PlatformProductDetail.jsp?siteId=1&platformId=9&N=96805%2093246&productId=44362&R=44362
+ok
+don't forget to remove the CD, or properly change your bios, etc
+perhaps you didn't specify an existing directory as a mount point?
+Hoy how can i get skype downloaded even when i dont have  windos
+NytShade, if you go to places and then network servers, you should be able to see the mshome thingy
+man atitvout (assuming you installed it)
+there is a linux build of skype
+=== Smokeh is now known as NoCrown
+=== NoCrown is now known as Smokeh
+NytShade, you should be able to see it there
+ahh.  A pissing contest then?  I'd definitely let my girlfriend win, no contest, if I were in that situation.
+ok thks!!!
+ahh.  A pissing contest then?  I'd definitely let my girlfriend win, no contest, if I were in that situation.
+|Sivik|, a password diologue box has poped up.
+NytShade, ok
+Is there a package like Rpm for ubuntu?
+yes idid download it
+|Sivik|, it's not accepting my user and password.
+ubuntu uses the apt-get/dpkg (.deb) package management system
+NytShade, then go into windows and edit is so you don't have to ask for password when loging in to the windows box
+dli, i dont have /etc/fstab
+debs are the ones use in ubuntu...you can convert RPMS with the alien commnad
+i tried to mount it to mt home folder
+most people use apt-get though
+yes you do, you MUST have it
+NytShade, i'm not sure how to fix that, never had the problem with user and password for samba
+rug, sorry got it now
+I'm not logging into the wondows box.
+i have a removeable drive that keeps getting mounted read only, what can i do
+NytShade, what do you mean your not loggint to the windows box
+you have to add the user to samba
+Firefox 1.5 is that supported with apt get or not quite yet?
+|Sivik|, all I did was open the Network Servers "place"
+not quite yet
+nathahsnook, I don't belive you can apt get it yet
+!firefox1.5
+You can use firefox 1.5 by following this wiki page https://wiki.ubuntu.com/FirefoxNewVersion
+dli, how can i correct my /etc/fstab?
+NytShade, then thats same password as your sudo su password
+NytShade, is that the window that pops up?
+|Sivik|, I've entered my username and sudo pass. It's not accepting.
+NytShade, or does that happen when you click on the Windows Network icon?
+i have a removeable drive that keeps getting mounted read only, what can i do
+enter your pass the sudo password
+Apostle^, mount it as root
+|Sivik|, k
+|Sivik|, It happened as soon as I opend the "Network Servers" place.
+ls
+|Sivik|, but it's mounted automatically
+Apostle^, uh, you can unmount it in terminal and then remount it
+Apostle^, its just permission issues
+Hoy how can i get skype downloaded even when i dont have  windos  but ihave linux and java  but iget skype but ikant get it working
+|Sivik|, when i try to remount it it says no entry in fstab, because i don't have one
+how do i get a dialup modem to work on ubuntu?
+is English your first language?
+duco, sudo apt-get install skype
+a real one/
+Apostle^, the device should be /dev/sda1 unless you have a sata hd
+?
+what cant you get working
+you can download a DEB from Skype's website
+|Sivik|, it's /dev/sda2
+Apostle^, ok, then all you should have to do is "mount /dev/sda2 /place/youwantitmounted
+|Sivik|, then i have to use sudo to do anything
+it worked! Thank you thank you thank you!
+what up ppl
+=== rey is now known as roscslab
+you should just need sudo to mount it for write acess
+oh, good.  Time to make that backup you skipped the first time around ;-)
+amphi, here's what the atitvout is telling me
+sudo atitvout tvout
+TVOut chip is detected but not supported in BIOS
+TV Out is enabled.
+Reference frequency is 27.00000 Hz
+!paste
+Please don't flood the channel! For best results use the pastebin at http://paste.ubuntu-nl.org/ and tell people the URL
+you knw much but what is a dbv
+yes :)
+hi, i don't know if this is possible, but is there a way to switch the monitor's output to be vertical instead of horizontal, i have a monitor that i can turn on it's side.
+!tell ray_ abiut pastebin
+!tell ray_ about pastebin
+how do i get a dialup modem to work on ubuntu?
+then I have to figure out why Ubuntu doesn't like my laptop :P
+duco, do you mean .deb?
+goodnight!
+because you have a non-HP laptop :p
+ore deb
+g'night, and good luck
+open up a terminal and type in "sudo apt-get install skype"
+HymnToLife, dell are good too, no?
+=== Managu is now known as Managu_away
+perhaps you need to enable it in the bios? I know nothing of tv out
+im using ubuntu on a dell laptop atm
+never tried Linux on them but I heard there are lots of problems
+the internal modem is a winmodem so it dont work
+clever_, easy of use?
+the os runs as good as normal i think
+non-stinkpad, shurely ;)
+s/easy/install
+okee Thanks
+the cpu scaling is a little buggy
+ubuntu was too easy to install:P
+how do i enable something in the bios then?
+what kind of winmodem?
+after you do that, type in the terminal "which skype"
+|Sivik|, how do I set up a samaba user?
+clever people don't use Ubuntu
+didnt even ask which partitions to use so if i hadnt allready backed my stuff up it would have probly whiped my old os's
+ray_ you have to find the way to open bios when you start
+go for Slackware :p
+i was using redhat9
+HymnToLIfe, why slack?
+wanted to have a look at ubuntu
+oh, like back in windows when it started up?
+yes
+sudo smbpasswd -a username
+you just have to choos manual partitoning...
+and id perfer linuxfromscratch:P
+i didnt see a manual partition option
+hit f# (whichever key)?
+clever_ubuntu's been good to me
+because it's the least user-friendly distro ever

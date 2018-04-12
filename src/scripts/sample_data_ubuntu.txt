@@ -1,0 +1,1740 @@
+see guys this is why i need the quicktime aac encoder
+http://www.rjamorim.com/test/aac128v2/plot12z.png
+look at how much better it is then faac
+how do i install belkin f5d7001 on ubuntu
+i had like 400 megs in there ... how the kfcu is one supposed to know where to look for files moved to thrash? cause its not visible from the desktop or so, is it?
+hello, i need some help with ubuntu
+i just installed it to a powermac and I am getting an error message saying that the xserver cant start
+sybariten: I'd have thought so; I don't use gnome
+how do i install belkin f5d7001 on ubuntu
+!amarok
+I guess amarok is a music player for Linux and Unix with an intuitive interface. See http://amarok.kde.org ; amaroK's features: http://amarok.kde.org/content/view/51/1/
+amphi: neither would i... if i was sure i wouldnt lose stuff by changing
+how do i install belkin f5d7001 on ubuntu
+sybariten: lose stuff?
+Isn't the "thrash can" on the bootom right? next to the 4 desktop screen selectors.
+!bash
+For a list of basic commands, see https://wiki.ubuntu.com/BasicCommands
+!init
+Init is how Ubuntu starts up misc. system services at boot time.  To control the services, please install the package "BUM" from "Universe" Repository
+amphi: you know ... uh .. the terminal here in gnome has tabs, and it has choices to change char emulation instantly. could i do that under xfce, etc etc
+loose stuff like that
+!Aac
+methinks aac is read http://wiki.ubuntu.com/RestrictedFormats for information about aac support
+night all! // jo ejt!
+Yep. I was just about to mention that I_Love_DRM.
+how do i install belkin f5d7001 on ubuntu
+sybariten: guess so; just use gnome-terminal I suppose; I use mrxvt for tabbed xterms
+I_Love_DRM: you have a thrashcan there ?
+i just installed ubuntu to a powermac and I am getting an error message saying that the xserver cant start
+can anyone help me out?
+I do too.  it looks like a calculator on my screen, but it's a trash can.
+How do I correct 'dpkg-deb: subprocess paste killed by signal (Broken pipe)' ?
+amphi: but i couldnt use gnome-terminal under antyhing but gnome could i
+darwin188: you need to mess with sudo dpkg-reconfigure xserver-xorg I guess
+hey folks, newcommer here
+sybariten: why not?
+I'm trying to install glibc
+and then?
+how do i install belkin f5d7001 on ubuntu
+hola
+sybariten: AFAIK it's a standalone prog (albeit with a lot of shared lib deps probably)
+alguien que sepa de linux que me ayude
+"rpm -U webmin-1.260-1.noarch.rpm" - this command doesnt seem to work for me, any ideas of how to use a. rpm file?
+Claudia, hablas ingles?
+I need to install it
+ompaul: yes i like the new edubuntu background too - although it's a kinda cold and is missing New Zealand (bug reported) :)
+is there a way to lower my screen resolution, Ubuntu loaded tops and is hard on my eyes
+no
+!tell CLAUDIA about es
+!es
+Hispanohablantes: Por favor usen #ubuntu-es, #kubuntu-es o #edubuntu-es, alli obtendran mas ayuda.
+Old: ubuntu is debian not redhat
+amphi: i thought gnome stuff required gnome as the window manager (althouih its prolly bigger than just a window manager today) to run, just as all K-programs (Kdevelop an all) would require KDE ... etc
+bimberi, :-)
+!rpm
+methinks rpm is the Redhat Package Management file. Very similar to Debian's DEB files, but require alien to install. ask me about !alien
+hola CLAUDIA
+Old: ubuntu uses .debs not .rpms
+ooh
+hola nelisa
+!alien
+somebody said alien was a program to convert RPMs to DEBs. Its use is discouraged, as it could create serious problems. Website: http://www.kitenet.net/programs/alien/
+CLAUDIA: #ubuntu-es
+Is there a way to use .rpms, like renaming it or something?
+Amin: alien isnt really recommended to use
+sybariten: you can run kde progs without kde (you still need the libs), same for gnome; I run gnome progs like gthumb here without gnome
+Old: find a deb
+Old, there's "alien", but you should look for a deb first
+gracias
+how do you add backports to dapper? like so i can get lame debs?
+CLAUDIA: de nada
+gnomefreak i cant tbh, this guide is old, and i bet the file isnt on google anymore
+I'll look
+Old: what is the app?
+sabes espaol
+aj_, there won't be any backports for Dapper yet - development of the next version hasnt' started yet
+ok next question ...  if i compile something and then do make install in order to get it in place.... (in this case irssi) .. and i already had that tool installed via apt-get ... will make be able to "overwrite" my old version, and will the apt-system know that i got a new version of the irc client??
+!es
+Hispanohablantes: Por favor usen #ubuntu-es, #kubuntu-es o #edubuntu-es, alli obtendran mas ayuda.
+amphi
+CLAUDIA: join #ubuntu-es
+amphi: ok didnt know that
+are there any good wiki pages for setting up software mixing of sound?
+how to lower the res
+I can't get my sdl games & teamspeak to play nice
+so you can't get lame or mythtv in a repo?
+gnomefreak, it's webmin, for administrating your counter-strike servers (game servers)
+http://mirrors.redwoodvirtual.com/mirrors/www.webmin.com/download.html
+aj_: did you enable universe and multiverse
+yes
+Can i use any of those?
+!webmin
+See https://wiki.ubuntu.com/WebminWithoutARootAccount for webmin instructions for Ubuntu. Webmin runs on https://localhost:10000 - As of Ubuntu 6.06, webmin is REMOVED from Ubuntu and will no longer be supported
+how do i go about finding out about this 'mmsh://a814.l1977144512.c19771.g.lm.akamaistream.net/D/814/19771/v0001/reflector:44512?MSWMExt=.asf'.
+sybariten: some of the integration stuff may not work (those DEs must be for _something_ ;), but the individual profs should work
+dis, thats a windows media player link :p
+thanks gnomefreak, i'll just take a peak
+i think
+Yep. That's what it is Lurk3rX
+hi all
+i need help with vnc server, anyone up for that?
+hey!!!
+anyone have open-xchange working in a ubuntu box?
+ok but when i installed easyubuntu last night the media played today it doesnt
+Can anyone helpme with this: "W: No foi possvel checar a lista de pacotes fonte http://br.archive.ubuntu.com breezy-backports/universe Packages (/var/lib/apt/lists/br.archive.ubuntu.com_ubuntu_dists_breezy-backports_universe_binary-i386_Packages) - stat (2 Arquivo ou diretrio no encontrado)"
+nelisa, I'll look into the resolutions right now.
+MENDIGO: #ubuntu-br
+Sorry for the delay.
+amphi: ok thanks man
+thanks AlwaysIsey
+MENDIGO, looks like you've gor a missing package
+got*
+nelisa, how can i fix this?
+capitalization error
+MENDIGO: sudo apt-get update perhaps
+MENDIGO, can you reach those pages in your browser?
+MENDIGO, are you behind proxy?
+=== crowley1027 is now known as ^_^
+Screen Resolutions, and change it there.
+mkdir /var/lib/apt/lists/br.archive.ubuntu.com_ubuntu_dists_breezy-backports_universe_binary-i386_Packages would help?
+hehe
+Lmao
+oops multiverse wan't enabled i thought it was but i did it by hand
+AlwaysIcey, there's only a resolution there, that's way to high for my miopia
+i can't get vnc server to work properly, again, anyone interested in helping me?
+AlwaysIcey, how to get more res enabled?
+MENDIGO: no
+One more second nelisa, I'll look at mine.
+coucho, I've dealed with VNC back in my win days
+if I get a workable ress I would do better
+nelisa: i'm still in those XD
+AlwaysIcey, thanks
+nelisa, Try clicking on the arrows next to the resolution.  Tell me if any more options are there.
+this name is taken :(
+AlwaysIcey, negative
+Webmin is written entirely in Perl. Please enter the full path to the
+Perl 5 interpreter on your system.
+Full path to perl (default /usr/bin/perl):
+Anyone ?
+anyone know why my mplayer always gives me the error "New_Face failed. Maybe the font path is wrong. Please supply the text font file (~/.mplayer/subfont.ttf)."
+http://arstechnica.com/journals/microsoft.ars/2006/5/21/4048 - bye bye Ballmer :)
+How about the refresh rate, what options are there?
+RandolphCarter: he's going somewhere?
+mikebot: what does google say ?
+amphi: gotham prison
+AlwaysIcey, 60 Hx only
+mikebot: did you install the mplayer-fonts package?
+gnomefreak, read above. Could you help me perhaps?
+sybariten, RandolphCarter not sure
+nice job btw
+AlwaysIcey, Resolution 1280x1024
+nelisa: maybe you're able to help me out?
+Old: that should be the path iirc
+Is it an older computer nelisa?
+RandolphCarter: ah, the purges begin ;)
+gnomefreak, what's the exact path (Im new to ubuntu)
+it's a laptop an HP Pavilion N5495
+Old: i dont do much with perl except use it in scripts
+nelisa, no, i was going to update to Dapper Drake but then when i saw that would have to download 500mb I choose to Cancel
+hi olks
+Old: /usr/bin/perl
+RandolphCarter, how do i do that?
+I just installed the 686 optimized kernel for Ubuntu, and now mplayer and xmms don't run. if I launch them from the command line, it just says "segmentation fault". I recompiled mplayer, but it still says the same error. any ideas? I tried googling, and maybe the nvidia X driver is related to this problem (I had a bit of a problem getting X to work with the nvidia driver when I installed the kernel, but it eventually worked)
+hallo
+cheers gnomefreak
+mikebot: sudo aptitude install mplayer-fonts
+RandolphCarter, thanks
+I'm not sure then nelisa.  I haven't tried this on a laptop, so I'm not too sure how what resolution options you should have.
+nelisa, I did a backup of the sources.list then i replace it with the backup and did a apt-get update
+thanks, It's installing now gnomefreak.
+hi , im on a live cd how can i partitionate my HDD
+what software i need
+Nintendud: you need to install the linux-686 package
+ubuntu breezy live cd
+RandolphCarter: I did
+;p
+AlwaysIcey, how do I poll my hardware for more res options?
+hmm, so it can't be missing the nvidia kmod :(
+whois guenni
+oh wait
+RandolphCarter: looks like I didn't. wtf o_O
+join #ubuntu-laptop
+i've got ubuntu running at 1280x800 on an acer 3023 with an ati card
+I'll check this out, thanks
+Qtparted
+wooh
+anyone here using irssi? please raise a hand
+Nintendud: :P np's
+and<
+anyone here know a bit about raid? specifically raid0
+RandolphCarter: would I have to restart? they still segmentation fault
+Device Manager.
+Nintendud: yup, you'd need to restart
+ruchbah: can you see if you can do /set term_char ?
+thought so
+or at least, restart X
+has anyone used automatix?
+hmm, probably best to reboot
+dell500: depends on what you wanna know
+alright
+brb
+sybariten: yeah
+there's some messages about loading restricted modules at startup :) gl
+alright, thanks
+if I'm not back, all is well
+amphi: yes you run it or yes you can do /set blabla ?
+hello all
+need some help
+termchar even
+:(
+coucho, well i have a raid0 array... i made the array with the onboard software (prog that came on the mobo) and i am using it in linux (kubuntu 5.10)
+hello can anyone help me????????????
+dell500: and what's the problem?
+coucho, what I would like to do is get another large SATA and just back everything up on it, then use the 2 other sata's for OS's
+sybariten: yes I use it ;)
+!helpme
+If you do not actually ask a question, we cannot actually help you. :)
+sybariten: "Irssi: Unknown setting term_char" - what's that supposed to do?
+I was just wondering if it's possible to get a new mobo that has more than 2 satas to hook it up so the transfer of 200gb of data to be copied will be faster
+i want to configure dns server on the Ubuntu Machine can anyone teach me how can i do it??
+dell500: if you've got a third drive, maybe raid4?
+AlwaysIcey, what I'm looking for??
+dell500: why wouldn't it be possible?
+amphi: solve my problems  :)
+amphi: according to the bitches in my regular swedish chan
+sybariten: WAYTTD?
+sybariten doesn't seem to do anything.  This is the first time I've used irssi.  Just trying it out
+dell500: and sure, you can always get a PCI SATA-2 card and use linux's software mirroring too
+coucho, i've only got 2 SATA ports for raid
+anyone there?
+amphi: what does that abbreviation mean ?
+it's almost as fast, and you can just put the drives in another machine without it breaking horribly
+nelisa, in Device Manager, you'll be looking for the Display Adapter or something similar to that.
+dell500: i understand, but why would it not be possible for you to get a new mobo that supports raid on more than 2 sata ports?
+ruchbah: ok thanks ... hmmm but did you get an error or not? try a termchar that doesnt exist, like /set term_char banana
+what are you trying to do?"
+RandolphCarter, my "vision" is to get all the data stored on one SATA drive, then enclose it, use it as USB, then use the RAID0 array (2 120 SATAs) to split up and use for OS
+i just installed ubuntu to a powermac and I am getting an error message saying that the xserver cant start
+coucho, i was wondering if it might destroy the raid array i have now and i would lose all my music and stuff... that wouldn't be good
+varunvarde2007, http://help.ubuntu.com/6.06/ubuntu/serverguide/en_GB/dns.html
+can anyone help me out?
+dell500: ah like that
+thanks checking it out in a second
+dell500: you won't be able to move the drives to a new mobo
+dell500: super, mega, definitely not
+ok
+lol
+has anyone had problems using automatix?  specifically firefox
+and this is the problem with hardware RAID :)
+amphi: ok, i'm trying to set IRSSI to get the character "emulation" (or whatever you call it) ISO-8859-1 ... aka "western"
+sybariten .. nope.  No error.
+(unless they're not in a RAID atm)
+varunvarde2007, you will also need to read that howto at the bottom its far too much to do in irc
+greg_: dont use it
+ruchbah: ok, then it works for you ... dang
+RandolphCarter and coucho, I guess I could just get an enclosure and copy via USB... but 200gb over usb scares me
+dell500: i would advise you to get the disk, and get norton ghost or something to create an image and put that on your new hd
+why not?
+sybariten: no idea about that I'm afraid
+!automatix
+automatix is, like, totally, unsafe, it overwrites configuration files, and does things like "echo -e 'y\nY\n'" that are considered risky. Please do not use it. There are alternative applications, such as !easyubuntu.
+^^^ greg_
+this is giving me an anurisum
+dell500: then just undo the array and reinstall everything
+dell500: wouldn't be so bad, just leave it going overnight, probably take 3-4 hours?
+is there a way to check my hard drive. to analyse it for bad sectors etc... it's an external hdd on fat32
+coucho, u can do that?
+greg_, if you use it, and you break your machine you will reinstall
+anyone know how to make a .deb package of firefox 1.5 from source?
+how can i know what ports i have open?
+phace: badblocks
+!ff1.5
+You can use firefox 1.5 by following this wiki page https://wiki.ubuntu.com/FirefoxNewVersion
+vlad: ^^^
+gnomefreak, thanks
+vlad: ywe
+-e
+yeah it did break my machine
+dell500: of course, but everything that was on the array will be gone (or at least not accessible)
+Does anyone know the reason why I get this message when I start Synaptic?  "W: Couldn't stat source package list cdrom://Ubuntu 5.10 _Breezy Badger_ - Release i386 (20051012) breezy/main Packages (/var/lib/apt/lists/Ubuntu%205.10%20%5fBreezy%20Badger%5f%20-%20Release%20i386%20(20051012)_dists_breezy_main_binary-i386_Packages) - stat (2 No such file or directory)
+W: Couldn't stat source package list cdrom://Ubuntu 5.10 _Breezy Badger_ - Release i386 (20051012) breezy/restricted Packages (/var/lib/apt/lists/Ubuntu%205.10%20%5fBreezy%20Badger%5f%20-%20Release%20i386%20(20051012)_dists_breezy_restricted_binary-i386_Packages) - stat (2 No such file or directory)
+Id"
+Rash, try netstat -an or netstat --help for options
+i lost firefox
+coucho, but that's pretty much a complete backup of it all? how safe is it?
+leojstewart, because you don't have your CD in
+AlwaysIcey, only video related thing is 82830 CGC
+dell500: i don't think you have to worry about it, unless you get a crappy image maker
+ghost's very safe, just do an integrity check afterwards
+exactly
+I'm not sure what to tell you then nelisa.  Have you tried in the #ubuntu-laptop room?
+leojstewart, it should run fine anyway, though
+is there a good one for ubuntu?
+Of course the forums go down right before
+one that doesn't crash? :)
+I make a post.
+Pyro: it does. Thank you. I was just wondering
+dell500: most of those work outside an OS
+dell500: ghost does anyway
+I wasn't doing it before... I wonder why it is now.
+ohhhh
+gotcha
+dell500: tar | bzip is farely safe and doesn't crash :)
+AlwaysIcey, they sent me back to #ubuntu
+*fairly
+RandolphCarter, I've had some problems with tar'ing things
+idk why
+Nelisa, You need to find a way to make the equivalent of a conference call it would seem.
+leojstewart, if you don't want to see that error, you can comment out the line from /etc/apt/sources.lst that checks the CD
+dell500: i would get ghost, you can boot up and just copy your entire hd array to your new disk
+But seriously, I hope you get help.
+can i open terminals so they're already set to the folder i want them to be in?
+Pyro: sorry, but I'm a linux-newbie.  Could you tell me exactly how to do this?
+ghost only works with ext2/ext3 atm though (don't think it works with reiser)
+dell500: i would probably allocate that disk first
+The only other place I could recommend is maybe the accessibility chat room.  Otherwise, I'll leave it up to someone else here, since I haven't configured Devices manually or used a laptop with Ubuntu.
+dell500: which fs do you use?
+:(
+didn't work
+still segmentation faults
+epositories
+Nintendud: erk :/
+Hey, I have a little question about getting new hardware working in an existing ubuntu breezy installation, I was hoping someone here could help?
+then uncheck the "CD disk with Ubuntu..."
+dbcalo , How do you define the ones you want them to be in? Do you want to pick them from nautilus or do you want the terminal to have a different default or something else?
+!tell jlunder about ask
+RandolphCarter: then again, I probably should have watched that apt-get more carefully; since it didn't have any dependencies to install, so I think everything in that respect was up to date
+when i try and shut down ubuntu on my laptop it just goes blank screen and nothing happens, none of the diagnostic messages "shutting down root file system" or anything, just blank screen, never powers down either.  What do you guys think is wrong?
+php5 and gd lib support, what do I have to do to ensure that  php is compiled with GD lib support/?
+since apt-get install linux-686 only downloaded a 22.4KB file ;p
+hi, how can i install LILO from a live cd , i just broke grub and ill install lilo to replace it
+:(
+anyone got any ideas of how to remove the other modules from webmin ?
+man, I can't live without mplayer
+http://doc.ubuntu-fr.org/installation/grub#restauration doing that doesnt work
+eugman, i was hoping i could open them up with nautilus. i remember i used to be able to do such a thing but have since forgotten how to do so.
+xmms I don't care much about, unless I want to spam music in IRC
+Nintendud: heh
+HellDragon: there are plenty of other GRUB tutorials/HOWTOs...
+what's the disk info command again?
+but still
+:/
+=== Sir_Squirrel is now known as McScruff
+can anyone tell why im able to send in AMSN but im not able to send here in IRC
+but i want to use lilo
+not grub anymore
+how do i make my newly installed ubuntu system to work...i keep getting an error message saying that the xserver cant start
+it always break
+jlunder - what have you got?
+every week it breaks
+`RaSh: some channels require you to have a registered user name.
+i will appreciate a lot the help
+HellDragon: you boot every week??
+Nintendud: hmm :/ not sure what I can recommend
+RandolphCarter: :(
+what's the disk info command again?
+amphi, every day
+its not here.
+PyroMithrandir: worked perfectly. Thank you!
+HellDragon: strewth
+leojstewart, no problem :)
+so, can anyone help me with my problem? after installing the 686 optimized kernel, mplayer and xmms only respond with a "segmentation fault" when I run them from the command line
+dbcalo, Well I'm guessing you could do something with nautilus scripts and the cd command. Or copy the folder and then open a terminal and type cd and then paste the location into it but that's no fun.
+darwin188,  sounds like you need to reconfigure your X server properly. perhaps install the nvidia or ati drivers. depending on your video card.
+i dont know what to do now
+i can only boot on a live cd
+Nintendud: they don't even give you any other output? :/
+Right, so I just put a new CD burner in this machine. It shows up in "Computer" but as a regular CD-ROM, and I can't burn anything through the nautilus interface. Is there some magic I need to invoke to get things working?
+RandolphCarter: nope
+but i dont even have a graphical interface
+what's the disk info command again?
+nintendud@johnspc:~$ mplayer
+Segmentation fault
+BAM
+ok thanks everyone
+same with xmms
+maybe  iw ill come tomorrow for help
+thakns
+how do i reconfigure the the xserver?
+bye all
+which is why I was so confused
+;p
+!reconfigure
+I don't know, try searching at http://ubuntu.cc.com.au/, Dr_Willis
+hello, i'm having a problem...
+Nintendud: you could try running it under gdb and see if that gives you any idea
+what's the disk info command again?
+!fixres
+Help to fix the display resolution is available at http://wiki.ubuntu.com/FixVideoResolutionHowto
+gdb?
+how can i manage the services of the system?
+I've never heard of that
+lol, I was just thinking that
+it's the GNU Debugger
+coucho: what disk info command? df ?
+eugman, i'll keep looking into. i know last time i used linux there was a drop down menu it was in if you were looking at the contents a folder.
+amphi: finally, thanks
+i keep getting "error while loading shared libraries: libSDL-1.2.so.0" whenever i run quake4 or, im assuming, any other program thats uses SDL.  I have it installed and linked in ld.so.conf and it still does it?
+how do i create a user with the permission like a root user? (ex i want the user: warlock to have full rights like a root user does)
+nelisa: I may have a workaround for you, although it's not a solution.
+RandolphCarter: alright, I ran gdb, now what do I do? ;p
+Old, may I ask why?
+Nintendud: run mplayer under gdb, and when it crashes, do bt to get a stack trace, and see if you see anything enlightening
+!tell Old about root
+Nintendud: are you using proprietary nvidia X drivers, BTW? ;)
+Nintendud: you need to run 'gdb mplayer'
+Old, your first user - the one you created during install - has full sudo privs - you can give any subsequently created users the same
+eugman, im installing webmin, and it needs a account to start my gameservers, i dont want to use the root account
+i want to give multiple user read/write access to a dir. ive created a symlink to this dir in each of their home dirs. each user belongs to the same group as the dir. and the perms on the dir were set with 'chmod 1660 dir_name'. why doesnt this work?
+then type 'run' and wait for a crash
+amphi: if you mean if I'm using "nvidia" instead of "nv", then yes
+I only created 'root' there :-(
+(press return too)
+helldragon .. I've had problems with grub which I solved by booting a live cd then going into the /bin (? /usr/bin ?) of the hd install and running grub-install from there.  There was more to it than that, but that was the gist.  Does that sound like something to explore for your situation?
+Old, no it does not - this is ubuntu
+Old, read the webmin page on the Ubuntu wiki
+sorry, i'm trying to manage the services of ubuntu, how can i do that?
+I need nvidia for dual screens
+Nintendud: you can do 'file /usr/bin/mplayer' at the gdb prompt, and then 'run'
+ompaul, huh?
+Old, read the web page that ubotu sent you as a message
+Assistive Technology Support, you can enable the magnifier and a few other options.  If nothing else, that will help until you get a solution.
+Old: you do not want a web program to have root priviliges, webmin == evil
+disabling root account, I dont want that..
+oh
+but..
+Perkin,  could read up on how the SysV init system works.. if thats what you are refering to.. theres also gui front ends to manage what gets started when.
+amphi: did it, but uh... weird output o_O
+what user should i use then?!
+Old, no buts read the web page
+Nintendud: that might be what's breaking mplayer and xmms - someone had a similar problem yesterday; you could check if using the nv driver makes the problem go away
+k, let me read it
+amphi: I need dual monitors though!
+:(
+and, I believe nvidia is necessary for that, right? :P
+Old: what's wrong with teh good old command line to start services?
+I had no problem with the 386 kernel and nvidia
+Nintendud: *shrug* - trying with nv would at least show if that was the cause of the proble,
+it's just this one
+:/
+hello. can anybody help me getting my network / internet working?
+er, problem
+alright, I'll try it
+hold on, editing xorg config
+!commands
+is there anyone in here who can help me with vnc server?
+from memory, commands is https://wiki.ubuntu.com/BasicCommands or http://www.linuxcommand.org/
+Dr_Willis: i saw that i can manage the main services, like schedules, with something called gnome-services or similar. do you know that?
+Knorrie, im new to ubuntu, mind explaining a little more ?
+or should I show you gdb's output first, amphi ?
+I always use the root account, I dont dare to disable it
+maike-maus: you're on irc without a network connection? :P
+Perkin,  im old skool and normally twiddle the rc.d links myself.
+?
+Old: that is not very wise
+how do i make my newly installed ubuntu system to work...i keep getting an error message saying that the xserver cant start
+amphi: um, gdb says: Program received signal SIGSEGV, Segmentation fault.
+Old, In ubuntu root isn't used. Sudo is used before root level commands.
+[Switching to Thread -1228269888 (LWP
+0x00000000 in ?? ()
+Old: http://www.theregister.co.uk/2006/02/24/bofh_2006_episode_8/
+Nintendud: do 'bt' and hit enter
+Nintendud: that's the segmentation fault there
+0x0000000 = null pointer :)
+Old: :P
+i keep getting "error while loading shared libraries: libSDL-1.2.so.0" whenever i run quake4 or, im assuming, any other program thats uses SDL.  I have it installed and linked in ld.so.conf and it still does it, anyone know why this is happening?
+Nintendud: don't paste in here please
+grub-install doesnt work
+darwin188: they already told you to reconfigure your xserver
+i need to add an option after
+Old, please read it again
+amphi: longer response; where should I paste this?
+wtf with all the spam
+!pastebin
+it has been said that pastebin is http://paste.ubuntu-nl.org/, a site for pasting long texts so you don't disrupt the channel - or install webboard in Gnome: http://www.gnomefiles.org/app.php?soft_id=1269
+I dont feel like reading a story about some people swearing to each other Knorrie.
+Old: bofh is fun
+ah, I was wondering what that was
+Old: but anyway..
+yes but how do i do that
+No, Im christian. I dont see those things being 'fun' to me. - sorry.
+spam spam spam
+Old: heh i'm too
+Nintendud: pastebin it and paste the url in here - is there an openGL line near the top of the bt?
+Let me read it ompaul
+again.
+darwin188: did you look through the manual yet?
+bofh isn't really swearing :/
+i dont have a manual
+amphi: http://paste.ubuntu-nl.org/14418
+i jsut have a cd
+tpektoerjtre9j
+amphi: that contains the error messages from run too
+Old, read that web page again, running as root is bad, it opens you to attacks in individual clients and gives too much power to applications that should not be trusted
+AlwaysIcey, upping the fonts helped loads
+Glad to hear that nelisa :D
+question 2, whay are there black borders on the screen?
+amphi: it says glXChannelRectSyncSGIX ;p
+Nintendud: yeah, looks like the same problem - $SMALL_SUM says switching to the nv xorg driver will make this problem go away
+Alright ompaul, Like im said. Im new to ubuntu and im trying to run applications as easy as possible, and as smoothly as possible. I'm not much of a googler to look for ways to get around not-using root.
+darwin188: help.ubuntu.com / wiki.ubuntu.com
+I'm not sure about that at all.  Maybe someone else can answer it.
+amphi: but, how will I use dual monitors?
+i already tried that not a lot of help
+I don't think there is a way to do that under nv
+refers to this channel
+ok, i'll see in another way
+Old: what gameservers are you running.. just curious :)
+Nintendud: no idea - perhaps reinstalling the nvidia driver will fix it, dunno; it'd be worth checking that the problem goes away with the nv driver, as I grow weary of saying
+alright, I'll check that first
+I'll be back
+Knorrie, counter-strike servers, I work for alot of companies, and communitys. I know the basic in ubuntu to run game-servers, but im interested im learning more so i can do more with my game-servers.
+Old, that page says use sudo, if you want to install something it asks you for your password that is all, no one can brute force your root account that way, I could stay here all night doing one liners, take it as read it is a bad idea, or research it on ww.securityfocus.com
+well, brute forcing my password is impossible.
+darwin188: k wait a second
+Old: sorry to ask, but why do you complain about a sarcastic sysadmin story, and run games where people shoot each other, i dont get it
+Old, if the machine is compromised through the game server you will have only yourself to blame for running it as root, and personally I think you should go and do some research to understand what is wrong with running applicaitons as root
+thanks
+games where people talk and help each other are too much  like IRC :P
+Dr_Willis: heh
+hi people, what is more secure way to set up an subversion server? Inetd or an script that initialize it on booting time?
+i want to give multiple user read/write access to a dir. ive created a symlink to this dir in each of their home dirs. each user belongs to the same group as the dir. and the perms on the dir were set with 'chmod 1660 dir_name'. why doesnt this work?
+Dr_Willis, can we quote you on that?
+what _is_ a subversion server ?
+ompaul,  :P sure.. im allready on tht bash.org site a few times
+dgl: i use subversion and apache2 with the subversion-module
+Knorrie, I'm sorry to answer your questiong and you wasting my time litterly when im busy trying to sort out webmin. I have a son playing this game, And this is what i litterly do for a living. If you feel that what I'm doing is wrong, can you please me a work, as i cant seem to find any. Didn't really do good in school.
+sybariten: cvs..
+!info subversion
+subversion: (advanced version control system (aka. svn)), section devel, is optional. Version: 1.2.0-1ubuntu1 (breezy), Packaged size: 1255 kB, Installed size: 4728 kB
+lumpster: ok ...
+Old: no offence
+Dont.. please
+RandolphCarter and coucho, thanks for the help... btw, if you have a USB hd, you can ghost the image over to the usb from the raid0 array, right?
+hm, nothing for a guy who hasnt learned to use cvs yet i guess
+Knorrie, man, i will use lighttpd and I know that there is a way to do something like it with lighttpd
+dell500: that should be the case
+sybariten, a software server for moving data and keeping things in sync
+dell500: as long as it's been allocated
+dell500: you're welcome btw
+Im not having an attitude, but I'm really having it tough finding a work, And i get paid for this. As long as i get paid i do whatever it takes so get money so i can make a living.
+ompaul: that much i know
+k... is there any other ghost image creators out there besides norton?
+dell500: aye, good luck
+thanks :)
+Old, it's literally...
+dell500: nope, ghost's proprietary
+Old: your blood pressure... ;)
+dell500: I'm not sure how easy it'd be to ghost onto a USB drive
+dell500: what he said
+hmm... i'll find it somewhere
+ompaul: just got the impression that subversion was the "new and fancier" type of CVS, and hence nothing i should look into
+grub show me a smiley now...
+in the middle of the screen
+=== Tedd is now known as grub
+i still cant boot on grub
+HellDragon, :)
+=== grub is now known as Tedd
+tahts weird
+sybariten, CVS on steroids if you need more :)
+- Sorry, just tired and kinda getting mad at this webmin, as I cant seem to get it to work, I'll brb a second, need to read the page ompaul gave me.
+Does anyone know how the install-time hardware detection in Breezy works? Or where I could find out more about it?
+GUTE NACHT
+exit
+what i di
+RandolphCarter: i think that wouldn't be a problem, as long as it's recognised as a hddf
+*hdd
+coucho, what's the most stable verson? :)
+anyone willing to help with an alsa / AC'97 prob
+!hardware
+hardware is probably https://wiki.ubuntu.com/HardwareSupport
+tried it already
+no go
+dell500: i think the latest is 8 or something, but i'm not completely sure
+coucho: hmm, okay, but afaik it relies on the DOS drivers, and I'm yet to see a DOS USB-HDD driver
+Knorrie, I will not have people mentioning plesk in this channel I am trying to recover :-)
+Hey everyone.  I'm very new to Ubuntu, and just now got it installed on my computer.  I installed it on a 250GB hard drive.  I gave 10GB to /root 20GB to /home and 1GB to /swap (i know thats a lot).  I ran into problems when trying to format the remaining 219 GB as FAT32, so I just left it as free space.  Now I want to format it so that I can share files between Linux and Windows.  What's the best way to create this partition?
+2005 is 9.0, so i think 2006 is 10.
+Knorrie: aye, what's so bad about ssh?
+can anyone help me :(
+ompaul, I created a user, and gave it a password. Is that all?
+RandolphCarter: ssh isn't bad, did i say that?
+=== subsinker is now known as sub|at|alpopel
+jonuk: 219GB is way to big for fat32
+jonuk: cfdisk is pretty easy
+nope, kinda agreeing and diss'ing webmin for being pointless
+!comfort ompaul
+I give up. Try searching at http://ubuntu.cc.com.au/, Knorrie
+Old, that is all there is too it, if you need to run a command in a terminal, sudo command and it asks for your password
+RandolphCarter: true, but i believe that it works after the usb driver has been loaded
+:((((((((((((((
+Or should i disable the root usage aswell, If so. Is this user account i created -safe- to use for my gameservers and my webserver, so i can administrate them?
++p isn't the limit for fat around 137 gb?
+coucho: yeah, it should
+I have two cdrom drives installed, where can I find what they're known as?
+HellDragon: you're a dragon from hell, you shouldn't :(((((((
+ompaul, so when i login with putty i will be using my new account i created instead of root in the future?
+jonuk wheres your /? /lib /etc ????
+RandolphCarter/dell500: i would have to check be sure though
+Briguy: cat /etc/fstab
+Briguy: ide?
+darwin188: try sudo dpkg-reconfigure xserver-xorg
+ty
+There's a -bunch- of hours and work on this server, I wouldn't feel too good if i messed it up by disabling the root account.
+ruchbah, sorry i don't konw what you're talking about
+root@0[k# grub-install
+install_device not specified.
+so I can use CDISK to make partitions?
+Old: you can always fix it by chrooting in from a livecd
+any thoughts on running ubuntu on a T43p Thinkpad?
+dgl: i'm running a dedicated apache2 install somewhere to server subversion repo's, just because the svn people made a apache-module like http://packages.debian.org/stable/net/libapache2-svn
+im on a livecd
+jonuk: cfdisk, yes
+spacey:  what's the standard size for a FAT32 partition?
+Ah, I know. But i have a few things todo on my spare time, and i dont feel like going down to the server just to fix that :-)
+jonuk: maximum size you mean? i don't know, google it:)
+Old, if you gave root a password and installed software and let it run as root all bets are off its reinstall time sorry but that is how I view it
+jonuk: 1.44 MB ;)
+kkkkkkkkkkkkkkkkkkkkk
+maximmum size, yes
+HellDragon, what?
+jonuk: the max FAT32 partition size is 2TiB
+AlwaysIcey, bunch of unknown devices in dev manager, where to look at first?
+ack
+you say a 250gb drive, w/ 10gb for /root, 20gb for home and 1gb for swap, with the rest unformated, where's the rest of your instalation?  Whaeres your root partition?  Is this up and running?
+how the hell can i reinstall grub
+grub-install doesnt work
+looking at this deal for a durable high res ubuntu box... http://tinyurl.com/o2lym
+can somebody help me with a library location problem im having
+HellDragon: let me try to help you
+HellDragon: you didn't specify the device
+http://doc.ubuntu-fr.org/installation/grub#restauration i tried that , didnt work
+ompaul, but cant i like..remove the root account, or perhaps disable it from people accessing it?
+i see a smiley when i boot
+no menu with kernel list and windows
+buzzed: man, that's pricey, my PowerBook was less than that
+2 terabytes?  why didn't a 219gb partition work then
+amphi : how can i specify it
+I just installed 3ddesktop - how do i run it?
+jonuk: where you formatting it in Windows?
+HellDragon, https://wiki.ubuntu.com/grub gives a few pages that you can try I am off to bed in two minutes
+*were
+HellDragon: what partition is your ubuntu install /
+?
+HellDragon: you're on a live cd, can you mount your ubuntu partition somewhere under /mnt ?
+i can format it in either linux or windows
+is your PB UXGA?
+i dont know amphi
+Knorrie, i dont know im lost
+HellDragon: dont panic
+hello
+HellDragon: pastebin the output of 'fdisk -l /dev/hda'
+how can you dont panic with all the spam
+ook
+well, windows won't like formatting a large drive, but mkdosfs /dev/*drive**partition* should work
+HellDragon: spam?
+nothing
+fdisk -l /dev/hda says nothing
+oh, sudo mkdosfs..
+well, how about this
+Old, the page tells you how to, however if a program is running as root one of these game servers your talking about then *all bets are off* the risk of a compromise is too high
+Old, and with that I am gone, good night.
+Knorrie HellDragon -- I've done that for a similar thing.  Had ubuntu on hd and booted dsl.  Mounted.  Ran grub-install.
+RandolphCarter: PB 15 in. UXGA?
+buzzed: 12", for Uni lectures ^_^
+HellDragon: sata hd?
+Oh well, Is there a high risc of people hacking theirselfs into my system?
+I'll make a 20GB FAT32 partition, to let me read/write files in either linux or windows.  Then I'll make the rest just NTFS, so I can at least read the files in Linux
+RandolphCarter: he'll need -F 32 to get anything larger than 2GB or so
+amphi: yes
+hyphenated: it'll automagic that
+HellDragon: now you say so...
+Old: not even people, there are lots of automated botnets that try to do that all the time
+ack, no it won't, you need -F 32 :( (my bad)
+HellDragon: fdisk -l /dev/sda perhaps
+wrar, anyone using ubuntu on a ppc here, preferably a powerbook? If so, does switching virtual terminals with ctrl-alt-fwhatnot work?
+2sec
+bung I think there's a channel #ubuntu-ppc
+bung: it worked in debian on an ibook, FWIW, but it was alt-ctrl-some_meta_key_fn
+ruchbah: thanks
+okay, running with nv
+and uh, still a segmentation fault
+http://pastebin.ca/57783 amphi
+:(
+Nintendud: no segfaulting?
+HellDragon: *snarf*
+no, there's segfaulting
+dell500: not that i encourage software piracy *wink wink* but if i were you i'd get hiren's boot cd, which is downloadable via bittorrent
+same problem :(
+Knorrie, Hmmm.. But if i change the root password to something extremly hard then?
+amphi: it works on the livecd iirc
+bleh
+so, now I have no clue what to do
+:(
+=== Hglcobra is now known as chriswk
+i'll be in ubunti-ppc, this is too busy
+Old: you shouldn't allow remote password-based-logins for the root account
+HellDragon: ok; do this; 'mkdir mnt'
+"E: Sub-process usr/bin/dpkg returned an error code (1)" -- my friend keeps getting this error for gnome-terminal-data
+What's up?
+ok amphi
+Old: never ever ever
+is there bit torrent on this?
+HellDragon: and then 'mount /dev/sda7 mnt'
+jesus christ it's thundering loudly outside
+ok
+nintendud im guessing u like nintendo lol
+woah - wait a second. Could someone take that again? Should i change the root pass to something hard (I'll write it down) to prevent brute forcing(?)
+Nintendud: well, it would appear not to be your nvidia driver, so you can have your monitors back ;)
+mugzie: yes, but that's irrelevant to my problem
+amphi: yeah, but.. now what?
+why
+HellDragon: ls mnt shows you files and directories ?
+yes
+HellDragon: that's 'ls mnt'
+is there bittorrent on ubuntu?
+coucho, what version? 8?
+mugzie: xmms and mplayer error out with a segmentation fault right when i run them. this happened after I installed the optimized 686 kernel.
+HellDragon: ok; try 'chroot mnt'
+mugzie: yes, Azureus is good
+burps
+o ok
+mnt is empty now
+so, does anyone have any other suggestions?
+I really want to get mplayer back :(
+Peolple, what is more secure way to set up an svn server? Inetd or standalone process?
+HellDragon: pastebin me the output of 'mount'
+Nintendud: don't use the sloptimised kernel ;)
+Should i change the root pass to something hard (I'll write it down) to prevent brute forcing(?)
+amphi: aww. :(
+http://pastebin.ca/57786 amphi.
+alright I'll uninstall it and reboot
+brb
+dell500: i believe the newest hiren's boot cd is 7.5, but i could very well be wrong
+anyway i can get a 3dfx card working?
+coucho, i'll look it up
+what does hiren's boot cd do?
+negman: as i said, i don't encourage software piracy :P, but it has a number of very useful programs on it
+HellDragon: /dev/sda8 ??
+coucho - what are the useful programs?  i've not even heard of it.
+negman: harware testing tools, partitioning tools, backup tools, things like that
+huh amphi ^
+gotcha
+anyone know where i can find a 32bit libSDL-1.2.so.0 file?
+can i have some help?
+i dont have any sda8
+negman: it's great, it'll really simplify any of that stuff if you have to do it
+HellDragon: your fdisk output shows /dev/sda7 as the linux partition, sda8 as linux swap; mount output shows "/dev/sda8 on / type ext3 (rw,errors=remount-ro)"
+How might I go about installing SDL on Ubuntu 5.10?
+coucho, 8.1 is out, but it has norton ghost on it too :) neat cd
+can i burn a uso on ubuntu
+dell500: yeah huh XD
+iso**
+HellDragon: look at what you just pastebin'd
+mugzie theres plentty of ways to do that
+dell500: i love it, i take it everywhere with me :P
+o ok
+cause im downloading something
+download k3b
+MorbidHunger, try sudo dpkg-reconfigure xserver-xorg
+thats weird amphy
+anyone seen elephants dream?
+amphi
+what i do now lol
+i wanna go see brokeback mountain
+coucho,  nice lol, ultra geek... i'll bbl, gotta get some lunch meat before the deli closes, peace
+dell500: later dude
+HellDragon: it is indeed; still, wtf, damn the torpedos, eh? ;) try 'grub-install /dev/sda'
+Does anybody know where i can find a 32bit libSDL-1.2.so.0 file?
+invalid device: error 94
+and The file /boot/grub/stage1 not read correctly.
+People, does anybody knows what is more secure way to start a service: inetd or standalone process?
+=== Hglcobra is now known as chriswk
+hi, how would Ubuntu react if I have a dialup modem and the Call Waiting service from my phone provider ? would it disconnect me automatically?
+wtf
+Another question
+HellDragon: start again ;) and ask someone who has a sata disk ;)
+i feel like a dick
+what does that mean
+HellDragon: what kind of mobo do you have?
+thanx
+touch yourself and die
+I got the webmin to work atleast, lesser work then I though. And I actually remember everything I just did, that's a good sign of success *laughs* :-)
+HellDragon: say what now?
+but when i put the other video card in the it keeps saying the x server isnt installed
+I'm having problems with install libstdc++5, sudo apt-get install libstdc++5, and I get a problem saying that with in my achives folder permission is denied
+that gives me an idea
+i dont know what to do amphi
+eme?
+I have use Wireless Internet, so when I was installing Ubuntu, it couldn't recognize my network settings (since I couldn't plug in).  I know how to go to Network Settings and get my Wireless connection active (obviously), but everytime I reboot I have to reactivate it.  How do I get it to permanently connect each time I boot?
+The file /boot/grub/stage1 not read correctly.
+ wtf is taht
+MorbidHunger, you need to run that each time you swap video cards
+HellDragon: what kind of mobo do you have?
+E: Could not get lock /var/cache/apt/archives/lock - open (11 Resource temporarily unavailable)
+E: Unable to lock the download directory
+HellDragon: means grub didn't install; reboot the cd
+ill forget all the command
+breeden: you have some other package manager open?
+breeden, do you have Synaptic or something open too?
+ill need to do everything over amphi ^
+alright
+but the one im using now is onbored
+i have an s3trio i want to use
+ok i reboot
+brb
+HellDragon: for now rembember your ubuntu / fs is /dev/sda7 - or is sda8? ;)
+well, this is a fresh install of ubuntu, and I'm really not a linux user.  But ubuntu's default application add hasn't been of any help
+I haven't tried synaptic yet
+I don't think its install though
+ok, I think I see the problem
+thanks
+I have a 64bit system but quake4 needs 32 bit libsdl files... where can i get those?
+ynaptic
+hey whats that program to adjust the brightness of xv
+I had synaptic already open, hopefully this should fix the problem
+it worked, thanks alot :)
+breeden: that's why the package managers use the lock, so they don't clobber each other ;)
+maike-maus: knoppix? That's bad news...
+Hi, I really need to LAN card working on my laptop, but it doesn't tell me the model name. Is there a tool for this?.. Thanks a lot.
+im back amphi
+i stil see a smiley
+HellDragon: yes, grub-install failed, so no surprise there
+hi soundray
+lss: what kind of laptop?
+but wtf with the smiley ^
+grub is laughing at me ^
+lss: lspci might tell you
+coucho,  it's a gateway MX3220b.
+maike-maus: how are you getting on?
+amphi, yeah I've seen it happen with FreeBSD's porting system
+Hi, what inetd should I use: openbsd-ined or xinetd?
+can i panic now
+lss: sorry never heard of those, don't know what lan card they have
+lss: did you try lspci?
+coucho,  it's a "Ethernet controller: VIA Technologies, Inc. VT6102"
+soundray: network / internet doesn't want to work :(
+lss: you may find info at linux-laptop.net and/or tuxmobil.org
+lss: i think you've got it right there
+coucho,  thanks, amphi  thanks too
+lss: yw
+AAAAAAAAAAAH lets scream up and down
+maike-maus: same problem as ~20 hours ago?
+dgl, to my understanding xinetd is not backwards compatible with inetd...  It would require some manual tunning if you were planning on running a server that didn't support xinetd directly, I believe
+HellDragon: 'when in doubt, run in circles, scream & shout' ;)
+lol
+grub is dead!!!!!!!!!!! AAAAAAAAAAAH!
+breeden, ok, so u should use openbsd-inetd?
+rofl
+HellDragon: how did you trash your mbr?
+soundray: yes, xserver working but network still down
+dgl, if you aren't planning on running any servers or anything like that you probably wont notice the difference, I would go with inetd
+openbsd's
+maike-maus: does the net work when you boot a live CD?
+amphi : with partition magic on windows
+i tried to resize J
+its a NTFS part
+soundray: ubuntu live cds doesn't boot... I tried with kanotix, this works great...
+brentd, sorry, but I am a little confused about the packges names
+anyone familiar with dovecot mail?
+maike-maus: with ubuntu live, is it the freeze at hotplug?
+HellDragon: ah... the curse of proprietary sw is upon you
+:(
+qtparted doesnt detect J
+it says its full of errors..etc
+so i tried with part magic
+brentd, what packages offer inetd? I supose openbsd-inetd and xinetd, is there others packages?
+root@server:/home/cs/warservers/speedlink# ./update.sh
+./update.sh: line 2: ./steam: No such file or directory
+brentd, , what packages offer inetd? I supose openbsd-inetd and xinetd, is there others packages?
+what's the problem?
+Does anyone know why my Gmail Notifier is buggy?
+The file is there..
+oh
+one second :-)
+Old, ease up on your Enter key a bit, please
+soundray, no some problem wit i/o and pci (dapper)  - at hoary everything is fine until the splash screen- then the system freezes
+does anyone know about imap and pop3?
+!tell acid-trip about ask
+acid-trip: what do you want to know?
+acid-trip, I don't use it's pop3, but the imap is easy
+KenSentMe, i have dovecot installed through package
+but it the servers wont send or receive my emails
+amphi can you help me in pm
+theres too much spam ehre
+My Gmail Notifier tray icon does weird things... like disappearing.  Anyone know why?
+maike-maus: I guess I've been really lucky with my Turion laptop from Aldi. Almost everything worked straight away, including the Xpress 200 graphics... I'll stay away from Packard Bell, that's for sure.
+Im really confused. I think i have got the driver now, and the drivers file name is "via-rhine.c" and I have no idea how to install it. Thanks
+I might open a new site for Ubuntu Guides (Breezy and up), anyone have a suggestion for a name? I might also be looking for staff, anyone interested?
+acid-trip: i've installed a pop3 and imap server myself using this howto: http://workaround.org/articles/ispmail-sarge/
+how do remove modules ? i am trying to remove the fglrx module -not sure how to though
+hi, i have so ubuntu but i can't see dvd movies
+what can i do?
+acid-trip: it's written for Debian Sarge but works for Ubuntu (Dapper)
+I might open a new site for Ubuntu Guides (Breezy and up), anyone have a suggestion for a name? I might also be looking for staff, anyone interested?
+i dont' ahve dapper
+i have badger
+acid-trip: works for breezy too
+andrejkw: what's wrong with the wiki?
+!tell _ClouD_ about dvd
+pfft
+leojstewart: I don't use that program, but are you sure it doesn't disappear by design? Like, when you have no new mail?
+lol amphi
+what is the spanish channel?
+How can i add a dutch spellchecker to OpenOffice?
+#ubuntu-es
+!es
+Hispanohablantes: Por favor usen #ubuntu-es, #kubuntu-es o #edubuntu-es, alli obtendran mas ayuda.
+
+_antix: well I find it very disorganized and confusing for newcomers
+anyone know hot to handle modules ?
+makelele: woth kid gloves, IMHO
+er, with
+makelele: what modules?
+KenSentMe: install openoffice.org-l10n-nl
+amphi:i am trying to remove the fglrx module (not in /etc/modules) but it still shows up in lsmod
+soundray: is already installed, but is this package not only for menus etc.?
+KenSentme:i am trying to remove the fglrx module (not in /etc/modules) but it still shows up in lsmod
+asdf
+KenSentMe: myspell-nl
+makelele: modprobe -r fglrx ?
+amphi: i still have a problem with sendmail: http://paste.ubuntu-nl.org/14419
+amphi: but what happens when i reboot ?
+coucho: why tell me about sendmail?
+KenSentMe, try installing myspell-nl
+makelele, put it in blacklist
+amphi: cause you helped me with it yesterday
+coucho: with sendmail?
+linuxbomb: how do i do that
+amphi: ah wait, no you didn't, sorry
+er bimberi you're quick or I'm slow :)
+/etc/hotplug/blacklist
+anyone familiar with sendmail in here?
+coucho: ;) I use postfix
+KenSentMe: you're right. The spellchecker is in myspell-nl
+amphi: yeah i remember now :D
+how can I edit fstab? it's read only :-(
+Briguy: use sudo
+Briguy: sudo
+soundray: nickrud: bimberi: right, myspell is the one i was looking for. Thank you
+makelele, i normally just mv the module from /lib/modules/
+goodnight, is it possibly to use dialup and adsl at the same time, on the same computer with ubuntu to boost bandwidth ?
+hi
+=== blind|AFK is now known as blind
+linuxbomb: thanks i will try that,although your second option sounds better, this ATI card is causing me grief
+i wanted to share a folder using samba. I have a USB drive that mounted to a folder. For some reason when i share that folder, i cant get it access from a windows computer, any help?
+k i'm getting a little pissed off now, can anyone please help me with sendmail?
+nickrud: i found my aussie spellchecking yesterday so knew where to look :)
+what was that one command someone just gave me?
+coucho, what problem are you experiencing ?
+http://paste.ubuntu-nl.org/14419
+thnx
+makelele, just do a search in /lib/modules and move it to somewhere and then it wont get loaded
+this is weird.
+how do i change video cards?
+I'm using Dapper on a laptop, and every time I try to hibernate, it merely starts the screen saver.  Am I doing something wrong, or is this a known problem?
+CokeNCode: i use postfix now, but it still seems to want to use sendmail
+can someone please help?? need to install my lan card. I've got the correct driver, but don't understand the instructions
+I rebooted into 386 kernel, mplayer and xmms worked, uninstalled the 686 kernel, rebooted, and now segmentation fault again
+<
+linuxbomb:thanks ,one more thing ,do you know what the modass dir is all about ?
+im getting pissed too
+I can't win :(
+let's all get pissed :P
+MorbidHunger, sudo dpkg-reconfigure xserver-xorg
+looks like everyone is pissing here at the moment
+\o/
+does the xerver has to be running?
+coucho, apt-get install sendmail
+no they're gtting pissed
+the package handler will pretty much do the job for you
+makelele, no idea , but check out modconf utility
+CokeNCode: i don't want to install sendmail, i just got rid of it XD
+I seriously don't understand what's happening
+now, to my problem folks ... does anyone know if i can use adsl and dialup at the same time
+yes
+and would it conflict with my onbored video?
+Nintendud: your ram might be marginal?
+Nintendud: mplayer has optimized packages for 386, 686 etc... is the right one installed?
+oh, sorry coucho ... right now i'm supposed to have a 512 connection, and i'm connecting at 18 and below ... so i'm a bit distracted ... :/
+Knorrie: I compiled it myself, and it worked before.
+is there a way to see "extra messages" from xorg? i'm having problems (lockups) and the log files don't show nothing
+amphi: I have 384 megs of RAM and I'm running XFCE4
+this is a retarded question but how do you save an opened vim document via console?
+CokeNCode: that's ok, i understand, that's very f'ing frustrating
+i have 256 sd
+everything worked fine before that damned 686 optimized kernel
+Nintendud: don't complain @ ubuntu if you compile yourself ;)
+Knorrie: xmms doesn't work either
+and that wasn't compiled by me
+a smoking ati rage lt pro onbored video
+:P
+Nintendud: I meant is it dodgy - it might be worth trying memtest86
+Briguy: use nano man, much better
+amphi: no.
+:P
+I seriously doubt it's a RAM issue
+Nintendud: me too, just fumbling for a straw ;)
+Briguy: ESC :wq
+like I said, it worked when I booted into the 386 kernel, but once I uninstalled the 686 kernel and rebooted... segmentation fault again
+if i reconfigure the x server does it have to be running
+I've added a Samba share to my desktop so i can copy files to and from it. Why don't those network connections work when i use the 'browse'  function on websites in Firefox?
+Nintendud: but that it worked with the 386 kernel while the 686 one was installed, but not when the 686 was uninstalled makes no sense at all
+amphi: I know.
+MorbidHunger: probably not, maybe it even needs to not run
+i ran it while it was running
+Nintendud: so don't muddy the waters ;)
+but when i put the s3trio in the server bitches at me and wont run
+is it cuz i have onbored video?
+amphi: it might make more sense if I told you that everytime I booted into a different kernel, X would crash on boot and I had to apt-get install and remove nvidia-glx-dev before it would run, and it would continue to work correctly every time I rebooted until I use a different kernel
+er, apt-get remove and install*
+MorbidHunger: a server? video? does a server need a video card?
+dont think so
+but it wont run
+whichj puzzles me
+(might have to do with "nvidia TLS links", since whenever I install it it updates the "nvidia TLS links"
+)
+any idea why hibernate stopped working in Dapper, it just restarts the system now.
+arr, this is weird
+Nintendud: that's part of the fun of proprietary drivers I believe; just pick a kernel and stick to it, is my advice ;)
+what's a s3trio? or is that a really dumb question?
+DewDude: hibernate sounds like suspend to disk... and yeah.. network connections will be lost
+amphi: well, I still don't know how to fix this. and it's really frustrating me.
+i'm not talking network connections
+this video card i found laying around at school
+i know they get lost
+coucho: some video card chip
+lol k
+coucho: an antique ;)
+heheh
+i'm taking about rather than restoring after syuspend, it just restarts
+i just cant get it to work with ubuntu
+it is very old
+cuz i pretty much stopped all my apps that use networking before i hit hibernate
+Nintendud: pick a kernel, and reinstall all the nvidia packages I'd guess
+my athlon xp died and im stuck on this peece of shit from hell
+hmm
+MorbidHunger: why wont the onboard card work?
+MorbidHunger: i would suggest buying a geforce 4 or something, costs nothing and will work
+well, I'm only using the 386 kernel now
+it does work jsut horrible
+i dont have an agp slot on this mobo
+...oh..wait...would suspend to disk be dependant on the kernal image you were using?
+hello does anyone know a good APACHE-MYSQL-PHP for ubuntu?
+MorbidHunger, you need to run the reconfigure command after putting in the new card (sorry if you have, I was awy for a sec)
+MorbidHunger: i've got a mx420 and it works perfectly, and it probably exists as pci card too
+DewDude: this is using swsusp?
+MorbidHunger: if it's meant to be a server... an utp cable is more important than vga :P
+umm...i'm hitting hibernate from the log off menu
+it's worked before
+heh
+meh
+Knorrie: you dutch btw?
+coucho: yes
+ah
+ubuntu doesnt even detect my onbored audio
+m2
+i dont have a fan or a heatsink either
+however, when i was using the wifi earlier, i was using my 386  kernal rather than the 686 because my wifi tends to lock the 686 kernel up
+coucho: i saw you using paste.ubuntunl ;p
+XD
+DewDude: it might be that you need to boot with restore=/dev/foo where /dev/foo is your swap partition, for it to work
+um hello
+Evanescent: hi
+its amazing this thing works
+MorbidHunger: lol
+i should send ug uys pics later
+heh, well, if it's using disk swap, it's probablty already overwritten the session
+MorbidHunger: lol @ onbored audio
+yeah
+:D
+this is where i make myself look really stupid
+ill see if i can get a sound card tomroww
+DewDude: er, s/restore/resume
+MorbidHunger, that's a shame because ubuntu worked on all my hardware
+Evanescent: you're not stupid
+MorbidHunger: you do that
+only thing i can't get running is 3d on my laptop
+its cuz im on a compaq and my karma sucks
+DewDude: and yes, a normal boot will obliterate the session
+!MorbidHunger++
+can someone tell me how to install ubuntu as a dual boot with 2kpro?
+Morbid fact: On June 29, 1955, the reign of King Haakon VII, who had ruled Norway from the time of its independence in 1905, effectively came to an end when the beloved monarch fell in the royal bathtub at his palace in Oslo. The elderly king lingered on for over two years before succumbing on Setpember 21, 1957, to complications resulting from his fall.
+amphi: alrighty then, no real big loss
+this is horrible guys
+it had worked before..i'll ahve to play with it a bit
+HOLY CRAP
+Evanescent: first install 2k, then install ubuntu
+amphi: reinstalling nvidia stuff and everything worked
+dominion: whiskey tango foxtrot?
+I don't even have to reboot
+my laptop lacks battery, so, if i take it anywhere, i like to sysuspend to disk so i don't have to wait for the boot process
+Does anybody else have problems with Gmail-Notify?
+DewDude: yeah, I use swsusp a lot
+wish application could you recommend me for partitioning my disk????
+thank you amphi. makes me wonder if I could reinstall the 686 kernel and reinstall nvidia things to get it to work. ;p but I am not doing that today
+ok but will the s3trio conflict with the onbored video?
+Evanescent: the ubuntu installer will overwrite the boot record with a boot-loader, and present w2k and ubuntu choice
+thanks for the help and patience
+DewDude: no need to reboot, evar ;)
+cocox: partition magic
+whats the command to display system information
+coucho, for linux ?
+coucho: no
+XD
+just kidding
+sry
+amphi: yeah, i think my problem was i didn't specify the kernel i suspended with, because i think my ndiswrapper conflicts with 686
+Can anyone help me please? I have this error message after.....
+_____________________________
+Failed to start the X server {your graphical interface). It is likely that it is not set up correctly. Would you like to view the X server output to diagnose the problem
+_________________________________
+cocoxparted or cfdisk or ...
+coucho, ( WinROFLING face... )
+Evanescent: whenever 'repairing' w2k or reinstalling w2k, the windows installer breaks your system
+Knorrie: yeah i've already got 2kpro installed i'm just not sure how to go about installing ubuntu. i downloaded the iso, opened it with undisker and burnt the files to a data disc but it's not bootable
+Khoacalacan. thats the same shit i got
+heh
+Dam anyone know how to fix it???
+hey, i've like, installed linux, then installed XP, then fixed dual boot
+man, i had some fun with the MBR that day
+install xp than linux
+DewDude: yeah, it's not rocket surgery ;)
+Evanescent: when you burn the iso to a cdrom it should be bootable
+Khoacalacan, http://www.ubuntuforums.org/showthread.php?t=174537 read this at the end
+Ok thank you
+amphi, dual-booting or my suspend issue
+Khoacalacan, there is the solution
+DewDude: that's not very wise
+DewDude: dual booting
+i should read that roo
+too*
+Thank you cocox
+coucho: i know. I learned my lesson when after resoring my MBR, my XP partition was gone.
+Khoacalacan np :)
+DewDude: ouch XD
+i was able to get that back by telling CFDisk to repartition
+hooray for crappy hardware!!
+coucho: no, cfdisk fixed it in about 2 seconds
+it's been dual-booting ever since
+DewDude: I imagine very Bad Things(TM) will happen if you boot a different kernel than you suspended with and manage to get the session to restore
+DewDude: wow
+amphi, yeah, i totally forgot i had done that.
+Knorrie: even after opening the iso file first?
+DewDude: didn't think that was possible
+cuz i was about ready to throw this out a window earlier
+coucho: sure it is.
+Evanescent: you dont need to open an iso, just burn it byte-by-byte to a cdrom
+i had a drive partition completely disappear once
+Cocox: Is it near the bottom of the topic or the whole thing?
+DewDude: doesn't the xp install completely overwrite the mbr?
+hey i am making a multimedia cd for windows and i want to make an icon for the launcher to launch    does anyone know how to do this?
+amphi, what is the difference between qparted, cfdisk or gparted ??? can anybody please tell me wish one is the best ??
+hello all, just wondering if there is a way to test surround sound in ubuntu?
+coucho: yes, it does
+but..if you partition your drives out
+DewDude: then what?
+back up the MBR, install windows, then restore the MBR, that CAN work
+Evanescent: you're burning in windows?
+provided you don't backup before setting your partitions
+Knorrie: ok i'll try it but if it desn't work i'll be back to haunt you...
+yes
+Evanescent: using what tool?
+cocox: depends for what - one of the parteds if you need to resize some existing partition, otherwise cfdisk for just normally partitioning a disk; there's fdisk and sfdisk as well, but cfdisk is the simplest to use
+nero
+DewDude: so first install linux, backup mbr, install xp, replace mbr?
+coucho: that's one way of doing it IF you want to install linux before windows
+Evanescent: nero should allow you to just 'burn cd image'
+but make sure you have EVERYTHING partitioned out
+coucho: or just reinstall grub
+yeah
+amphi, all those allow me to change mi partiotion size without erase my data ??
+DewDude: yeah i just installed xp first, seemed easier XD
+you'll need a live or bootcd either way
+Evanescent: i did that some long time ago when i had windows installed :P
+yeah it's being awkward
+Cocox: Is solution near the bottom of the topic or the whole thing?
+my nfs mount stopped working.  I didn't change anything, but now I get the message "mount: box:/media/jakarta failed, reason given by server: Permission denied" .. there's nothing in the server or client /var/log/messages and the exports allows 192.168.* ... any suggestions of where I could look now?
+im so screwed
+Khoacalacan, lol just the last post
+ok i'll try it anyway, thanks for now
+MorbidHunger: get some decent hardware
+oh I was reading the whole thing XD
+MorbidHunger: sorry :P
+coucho: the parteds are for that as I said; I've succesfully resized an ntfs partition once for someone with a parted; better to back up before messing with partitions generally, IMHO
+Falstius, did you check your /etc/fstab?
+i need to buy a mobo
+i dont have 60 bucks
+Khoacalacan, excuse me the one before the last post
+MorbidHunger: student life is hard
+yeah
+or...wait..is the NFTS drive in your local machine or are you doing it over LAN using Samba?
+espically when im busy fixing everyone else stuff
+and than they bitch about the free work i did
+Arghhhh
+DewDude: I can't mount it from the command line either ...
+meh sorry for the rant
+MorbidHunger: just buy asrock or something, that oughtta be less than 60 bucks
+ttyl guys
+later
+mom finished dinner
+MorbidHunger: have fun cu later
+yeah im sure i cna buy one for less
+but not one id be happy with
+Falstius: answer my question about the location of the NTFS drive
+true
+ttyl guys
+thanx for the help
+MorbidHunger: my current server is a PII233
+233?
+im on a 450 k6-2
+heh, my server is a 400mhz PowerPC
+MorbidHunger: so quit yer bitching ;)
+mine is a p4 2.4, i know, overkill XD
+MorbidHunger: so DONT COMPLAIN :DDD
+im not bitched about the cpu
+ghehehe
+DewDude: a simple mount "box:/media /media" gives me that error.  This is NFS, not NTFS.
+just the video
+MorbidHunger: serial console rocks
+MorbidHunger: it can't do 80x25 console?
+oh, nfs
+i'm dyslexic
+CPU: AMD Athlon 64 3500+
+no worries.
+ow wait, wrong one
+doesn't help when trying to learn linux
+umm...i don't really know...everytime i've done anything with NFS, i've had to use a howto
+where do you put .sh files?
+like, i got samba commands memorized
+Anyone know where to put my .sh files?
+ahh, I'm the opposite.  Normally I can just do nfs, but I have to look up anything to do with samba.
+hey i ahve a cd-wr what should my fstab permissions be?
+Old: ~/bin
+just in /bin ?
+k
+Old: ~/bin
+what's ~ ? :)
+Old: no, ~/bin, or wherever you want then
+m
+Old: means $HOME
+ah
+Old: ~ = your homedir
+let me try
+yeah though so, but didnt understand it in the beginning
+Old: man bash explains this, and other wonders ;)
+hmpfh
+k i think it really is my turn now
+can somebody help me get started with ubuntu?
+I put it in /bin only, and i got this:
+Output from command .. /bin/sh: ./stop.sh: No such file or directory
+darwin yeah
+I just installed it and dont know what to do
+Darwin188: install u
+what do you see?
+Nevermind
+it seems the xserver doesnt want to start
+Old: what are you doing?
+Can someone show me how to get MIDIs to play?
+i need to buy a mobo i dont have 60 bucks'
+!nl
+keht
+Op #ubuntu-nl staat de koffie al voor je klaar.
+using webmin to interfere with my gameservers, stop the server with the stop.sh
+hahahah inderdaad
+amphi: thanks
+and i had to use the install video=ofonly option
+Cocox: can you help me in the private please
+you click the "stop server" button, and it exectues stop.sh
+coucho: irssi split screen sucks
+!paste
+Please don't flood the channel! For best results use the pastebin at http://paste.ubuntu-nl.org/ and tell people the URL
+Knorrie: how's that?
+hmm i don't know
+one second, dont say anything, I think i found the problem. (Getting late :-(
+Knorrie: oh wait, command line interface right?
+Old: dunno about webmin, but you might want to specify the absolute path to stop.sh
+Knorrie: so don't do that then ;)
+can someone tell me how to play MIDIs on ubuntu
+darwn188 give me a sec, I'll see if I can help
+i'm new to this
+ok thanks man
+amphi, it's in /home/cs/warservers/speedlink
+Output from command .. /bin/sh: line 0: cd: /home/cs/warservers/speedlink: Permission denied /bin/sh: ./stop.sh: No such file or directory
+I get that now
+Knorrie: do you know anything about sendmail?
+coucho: i contantly put stuff in the wrong channel, i tweaked my irssi config to show some ugly red big banner at the active part, but i think my eyes are getting used to it
+lol
+tberg: timidity is one midi program
+coucho: no, i'm a postfix user
+k
+Any ideas amphi ?
+amphi: have mercy ^_^
+Old: your script is b0rked ;)
+Knorrie: vnc server maybe? :P
+not really amphi
+can i post it? it's 3 lines..
+lol
+is there a "shutdown script" ? cause it seems like as soon as i choose to "shutdown" on my laptop (dapper) screen goes blank and nothign happens (power still on though)
+b0rked
+Old: pastebin it
+what's the url for pastebin again?
+!pastebin
+[pa http://paste.ubuntu-nl.org/, a site for pasting long texts so you don't disrupt the channel - or install webboard in Gnome: http://www.gnomefiles.org/app.php?soft_id=1269
+Knorrie: any experience with vnc server?
+coucho: yes
+great!!
+coucho: why
+anyone know how to run a speaker test?
+nvm
+Knorrie: i can't get it to work properly
+coucho: vnc sucks, xdmcp rulez
+iguananed: play a sound :-)
+!pastebin
+I heard pastebin is http://paste.ubuntu-nl.org/, a site for pasting long texts so you don't disrupt the channel - or install webboard in Gnome: http://www.gnomefiles.org/app.php?soft_id=1269
+xdmcp?
+lol
+coucho: yes
+coucho: i use that a lot
+Knorrie: in windows?
+sorry I meant to test individual speakers .. ie 5.1
+coucho: in what??
+coucho: ;p
+Knorrie: sry :) i'm still a linux noob, plus i game a lot
+amphi, this is how i start it: http://paste.ubuntu-nl.org/14420
+Should I use kernel framebuffer device interface?
+Knorrie: and since i don't have a monitor for my servertje i was planning on using vnc for some stuff
+so about my shutdown question? any ideas?
+at the very least is there a shutdown LOG so i can see if anythign is happening?
+figured out my NFS problem, 192.168.* style wildcards aren't working.  Maybe its the VPN running.
+hi
+this is the stop script amphi, http://paste.ubuntu-nl.org/14421
+darwin188 - do you have a file called /etc/XF86config, or some variation on that?
+where?
+Old: why don't you just make a proper init script for it?
+i d like to know if someone knows a way to revert a "rm" command ?
+how do you mean ?
+darwin188 - sorry /etc/X11/XF86config
+Knorrie: is there some sort of xthingy viewer for windows?
+is there a kind of trash when we use rm ?
+Old: like the ones in /etc/init.d
+tommy_: no undelete on ext3
+how do i check taht?
+darwin188 - do this .. cd /
+Looks like the same amphi ?
+tommy_: no trash
+amphi, well, to bad for me
+darwin188 -  .. cd /etc/X11
+coucho: #ubuntu-nl?
+yow
+darwin188 -  then ls
+command not found
+tommy_: yeah ;(
+darwin188 -  sorry the dots weren't part of it.  Did you type those?
+I get this error amphi, Output from command .. /tmp/.webmin/529328_2_run.cgi: line 2: cd: /home/cs/warservers/speedlink: Permission denied /tmp/.webmin/529328_2_run.cgi: line 2: ./stop.sh: No such file or directory
+ok lets see
+the ./stop.sh command works in that dir
+no such file or directory, hey but i installed the powerpc version
+/home/cs/warservers/speedlink <- that dir, the stop.sh works
+Old: in what dir?
+darwin188 -  you'r on a ppc
+yes
+darwin188 -  you're on a ppc?
+My system often freezes when I exit Azureus
+Old: but that's probably not webmin's CWD
+does anyone know why?
+huh?
+root@server:/home/cs/warservers/speedlink# ./start.sh
+No screen session found.
+A server has been restarted.
+thats what i get when i try to ./start.sh
+I had a look at this http://www.ubuntuforums.org/showthread.php?t=161624 but I wasn't sure what to make of it..
+Why is WEBMIN no in the ubuntu repos?
+not*
+yes i am on a ppc
+darwin188 -  you out there?
+How do I get tar to extract to a certain directory?
+jadaz87, it is
+yes i am
+!info webmin
+i am here
+darwin188 -  there you are
+webmin: (web-based administration toolkit), section universe/admin, is optional. Version: 1.230-1 (breezy), Packaged size: 1154 kB, Installed size: 6368 kB
+ruchbah
+Madpilot: i just searched for it
+lufis: man tar ;)
+jadaz87, it's in Universe
+amphi, ;)
+ping ruchbah_
+Madpilot: i have both universe and multiverse enabled
+lufis: I commend -C to your attention ;)
+amphi, any ideas why i get that error? I cant seem to understand it
+darwin188 -  ok, there is a ppc channel #ubuntu-ppc (I think)
+okey
+Ampi: alright, thank you
+jadaz87, you running Breezy or Dapper?
+but it shouldnt be different
+amphi&
+i think
+Madpilot: dapper
+believe
+jadaz87, I read somewhere that webmin has been dropped completely from Dapper
+NOO!!! :-(
+Madpilot: why?
+Old: the error is clear - no script called stop.sh in CWD
+Madpilot: can i install the one from breezy?
+Hi, does any body knows how to change the totem video output? i install xgl, the videos are really slow, I think I have to change it to gl or gl2...
+CWD?
+'cat /etc/X11/FX86' but hit tab before enter and let it auto compleate
+Old: current working directory
+ruchbah_, there is no channel #ubuntu-ppc
+darwin188 -  what do you get?
+jadaz87, no idea, on either of your questions
+Why is it that with the 'Weather Report' that when I click Update, it seems to update, but the 'Last Update' says a time of twenty or so minutes ago?
+hmpfh
+Old: because the cd command failed
+from your paste above
+Does anyone know?
+leojstewart, the weather only updates once an hour or so - it's from the US Weather Service website
+anyone could tell me how to force framebuffer to use a i810 driver instead of the vesa one?
+Madpilot - any where else he should check for ppc specific stuff?
+Oh, I thought it was from Weather.com
+thanks, Madpilot
+gonna try something else, one sec
+ruchbah_, no - but there are Ubuntu_PPC users here...
+ok
+is there any way to make it update from a different website which updates more fequently?
+shinu: console fb?
+Madpilot, I;m trying to plug my ipaq
+leojstewart, it's an open source app, so probably ;)
+darwin188 -- you still out there?
+Madpilot, witout any luck
+yes
+whats up?
+amphi: yes
+ruchbah_: i am still here
+Madpilot: i'm a linux-newbie... so if it's hard, it's probably not worth it :)
+=== Evanescent is now known as GhostInTheMachin
+leojstewart, heh
+darwin188 -- did you catch that that there is no ppc specific channel?  Did you try the FX86 thing?
+whero do I get synce??
+greetings
+shinu: perhaps boot with 'video=i810fb', but you might need more than that - is that one of those 'shared memory' cards?
+hello everyone
+=== GhostInTheMachin is now known as Evanescent
+what are the most famous open source web design programs?
+also, does anyone know why quiting Azureus often freezes my computer/
+It's a pain...
+amphi: yep
+yes
+paueas: vim and emacs without a doubt ;)
+it says no such file or directory
+paueas, Bluefish, Screem or Nvu
+so i downloaded bittornado using synaptic... where is the icon to run it?
+does anyone know what this means?
+I found this: http://www.ubuntuforums.org/showthread.php?t=161624 but couldn't find a fix...
+does anyone know what this means?
+Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/dapper/universe/binary-i386/Packages.bz2  MD5Sum mismatch
+darwin188 -- do this at the command line: ls /etc/X11
+Reading package lists... Done
+new to ubuntu...cant login to ubuntu server through windows machine can anyone help ??
+shinu: you may have to do something special for such a card, not sure, I don't have one
+darwin188 -- do you have something that starts with FX86?
+=== Evanescent is now known as GhostInTheMachin
+oh ok
+ill google around a bit more then
+thanks amphi
+shinu: reserve ram for it or summat
+same
+keithsr: can you see the ubuntu server in the win machine?
+guys why the synce packages are not found??
+yes
+darwin188 -- command not found?
+bitwaut
+wait
+yeah it
+worked
+shinu: google will know, with any luck ;)
+when you download a application from sinaptic , where does it go?
+keithsr: what does it says when you try to access?
+ruchbah_: it worked
+sflash: dpkg -L package-name will show what files a package installed
+then what?
+darwin188 -- do you have something that starts with FX86?
+:)
+Zizou: it wats a user and password
+sflash, that depends what it is
+no
+sflash: the deb files go in /var/cache/apt/archoves, but packages put files in various locations
+How can I access my startup programs... and how can I add a program to startup with the system?
+darwin188 -- just a sec
+keithsr: ok... you have to use smbpasswd "user"
+ok
+does anyone know how to get files within a directory using wget
+keithsr: user is an actual user of the ubuntu server...
+?
+I have two(2) hard drives and it only shows one hard drive on my computer, How do I make the second one show?
+ok, i just want to run this app that i downloaded bittornado. but the icon doesnt exist in my applications menu on top
+Sessions, Startup Programs
+do i have to add it manually?
+bimberl: Thanks :)
+i have tried that but it is not working
+leojstewart: np :)
+darwin188 -- how about xorg.conf?
+keithsr: how is that? is the only way
+sflash: probably, some packages don't create menu entries :|  right-click on the Applications Menu and select Edit Menus
+What sort of "extention" does a printer driver file usually have?
+I am having issues with logging in as ROOT - I have tried the su passwd root and still no go.. I just installed Ubuntu yesterday
+hey
+keithsr: if you have an user "zizou" in the ubuntu server
+adrums20: You mean sudo passwd root, right?
+keithsr: you do smbpasswd zizou
+yes
+keithsr: is this samba?  if so samba has its own password list - "sudo smbpasswd -a username"
+adrums20: What happened when you tried that?
+keithsr: then when youre accesing the ubuntu server you type the user zizou and the password you asinght it..
+let me try bud
+darwin188 -- breaker breaker
+heh?
+i am still here
+darwin188 -- how about /etc/X11/xorg.conf?
+keithsr: try with the same password that is in the linux acount
+yes
+i have it
+yes samba...ihave done that
+Any extensions other than .ppd for printer driver files?  Anyone?
+rachbah_ : still holding
+it asks for the password and then I type it in. and back to the prompt it goes
+darwin188 -- can you post it on http://paste-ubuntu.nl.org?
+what shhould i post?
+the problem is that i am on my laptop and i am installing linux on another computer
+lat2bt
+darwin188 -- ok, ok, let me see ....
+adrums20: So it doesn't say "Password updated succesfully"?
+nope
+someone told me to use sudo dpkg-reconfigure xserver-xorg but i dont know what to do there
+what do i install to get j++ support?
+adrums20: Odd.
+hi
+amphi you still there ^
+thats what I thought.  I have been reading all day on the posts and nothing works after a fresh install
+when using smbpasswd it gives all options when  i use the options it says it had to abort
+grub works, but i cant boot on linux, only windows, when i try to boot on any linux kernel it says error 17 : sda8 not mounted
+adrums20: I'm not quite sure what that means.  You could do "sudo grep 'root' /etc/shadow"
+darwin188 -- is the linux box on line then?
+mount /dev/sda8 doesnt work
+adrums20: The second field is a crypted password.
+no its offline
+anyone can help me
+linux is recently installed and unconfigured to do anything
+anyone have any hint for me ? =- what do i install to get j++
+adrums20: It should be a bunch of jibberish (don't post it here), but it might be a "*".
+adrums20: A "*" indicates no password set.
+but i get to errors
+Helldragon i can try
+darwin188 -- what happens when you try that dpkg command?
+Helldragon: because sda8 is your swap partition, IIRC from your fdisk -l output - what is the kernel command line in grub?
+once I do that command, it goes back to the prompt
+=== sub|at|alpopel is now known as sub|off
+i get into a blue screen
+with options
+for selecting drivers, resolutions, keyboards etc
+i dont understand amphi
+=== sub|off is now known as sub|at|alpopel
+but everythging seems to be selected just fine
+when i do startx
+darwin188 -- ok, that's good.  Get there
+adrums20: Wait, you did "sudo grep 'root' /etc/shadow" and got no output?
+i get error of Unable to find a vlaid framebuffer device
+okey
+Helldragon: linux is trying to mount the wrong partition as / AFAICS
+thats correct - nothing
+thats weird
+how can i fix that
+For those of you who know your way around linux, how long did it take for you to get down the basics?
+ fdisk -l output says nothing
+im using bash
+adrums20: Ok...  Well, do "sudo less /etc/shadow"
+darwin188 -- do you have an option in there to not look for a framebuffer dev?
+where do i setup enviroment variables ?
+nothing goes back to the prompt again
+That should allow you to view the contents of the /etc/shadow file (which contains your crypted passwords).
+someone told me to use sudo dpkg-reconfigure xserver-xorg but i dont know i guess
+wait i guess
+Helldragon: in the grub menu, choose linux, hit e, go to the kernel line, and if it says root=/dev/sda8 try changing it to /dev/sda7
+ok
+adrums20: Hmm...something is very, very messed up there.
+ill try brb
+think a reinstall?
+use kernel framebuffer device interfcace
+yes or no?
+adrums20: Well...that's probably premature.
+darwin188 -- no
+breezy is v5.10, right?
+im still a newbie at this..and I just installed it last night
+Helldragon: then you hit esc and b to boot IIRC - it's been a while
+autodetect keyboard
+darwin188 -- yeap
+Helldragon: er, enter and b
+i skipped all the keyboard stuff
+hey ubuntu started printing error messages any idea what they are? http://paste.ubuntu-nl.org/14343
+darwin188 -- fine
+anyone else unable to use google search?
+adrums20: Hmm...I have to go.  Hopefully someone more knowledgable than me can help.  What you're saying should NOT result from a normal install, though, so either you're doing something simple wrong (that I'm just missing) or something was VERY messed up with your install.
+now i am on configuring xserver-xorg..select the x.org server modules that should be loaded by default
+PORDO, works for me
+PORDO: google works from here
+alrighty thanks bud
+adrums20: Good luck.  Sorry to run.
+anyone know how to login as root -
+darwin188 -- ok what kind of hardware do you have and what are the choices?  I usually just make a reasonable guess
+the first one i bought, yesterday, was a dud..so i took it back today and forgot to return one little piece, still in my pocket.  now i have two stylii.
+adrums20: i usually just do 'sudo -i'
+adrums20,  can't you just use sudo -s from your normal user instead of logging in with root ?
+the video card is an ati radeon 16 megas
+for some reason after a fresh install, I cant
+i have cohices already selected glcore bitmap ddc dri extmod freetype glx int10 tuupe1
+after every sudo anything I do, it goes back to the command prompt
+the unselected ones are dbe record and v41
+nothing happends
+darwin188 -- I think that's straight.  Is there a radion on the list?
+j++ help?
+where to get it?
+that list was way at the beginning but yes there was
+its already selected
+darwin188 -- Just don't select for a really high res when you get to that point, and see if it works ; )
+if i deleted a dir, is there a way to recover it?
+okey
+hello all
+let me try that
+plz, i have a nfs server and my machine asclient
+:(
+it doesnt work
+nothing from sda0 to sda7 works , amphi
+it always say partition not mounted
+im trying to mount, and it giveme a couldnot read superblock
+how do i select an option
+how i can solve it?
+(p.s: it was mounted another time)
+darwin188 -- an option in a list?  With the space bar
+cause if i press return i will go to the next screen
+ok
+hoiw many bit should i select?
+if i deleted a dir, is there a way to recover it?
+Old: on ext3? not really
+crap
+someone?
+i am still getting errors
+darwin188 -- I'd say no more than 16.
+FATAL errors
+okey let me try that
+darwin188 -- hang on
+grub is shit
+darwin188 -- see what you get from tail /var/log/Xorg.0.log
+knoppix_: grub is teh roxor
+=== knoppix_ is now known as HellDragon_
+i didnt see me nick
+lol
+ok
+i am hanging
+=== HellDragon_ is now known as HellDragon
+but wtf
+darwin188 -- see what you get from tail /var/log/Xorg.0.log
+nothing works
+HellDragon: it didn't boot when you changed sda8 to sda7 ?
+no
+it say partition not mounted
+i tried everything from sda0 to sda7
+darwin188 -- that tail give you anything?
+yes
+grub is poop
+HellDragon: in the 'root=' kernel argument?
+a bunch of lines
+HellDragon: did you use --init when you installed the new kernel
+lol
+fatal server error: no screens found
+no
+i think i can panic now
+HellDragon: where?
+HellDragon: did you edit the kernel line in grub's boot menu?
+HellDragon: i always have to do that when i install new kernels
+yes
+darwin188 -- ok.  The bit depth isn't going to hel that, methinks...
+i hitted e , hitted e another time then hitted b
+HellDragon: and did what?
+everytime it was not working
+EE unable to find a framebuffer device, EE r128 failed to open framebuffer device, ee screens found, but none have a usable configuration
+ERROR 17: PARTITION NOT MOUNTED
+HellDragon: so you didn't edit the command line at all?
+i edited it
+yes
+HellDragon: to what?
+but it says sda7 is not mounted
+to sda7
+darwin188 -- you said no frame buffer in the wizard, right?
+changed 8 to 7
+Kuja: Not finished yet.
+HellDragon: in the root=/dev/hda8 arg?
+yes
+yes
+I'm litterly going nuts.
+Kuja: 23%.
+webmin is something not for people with no temprament ((a note to everyone
+HellDragon: is this a kernel you built yourself?
+no
+Old: from what I hear, webmin is not for people ;)
+It's not for human beings..
+its for animal beings
+darwin188 -- ?? try saying yes?
+grub is poop
+yes
+rachbah-yes
+Grrrrrrrrrr
+if i already install amule but i want to uninstall it, how can i know what is the name of the package for make an dpkg -r ?????
+HellDragon: please stop saying that, it isn't
+darwin188 -- in the wizard I mean, to fb ; )
+ruchbah_ yes i get no framebuffer
+then why it breaks every week
+every week i need to fix it
+it breaks because of everything
+oh okey
+i think i already did
+i unplug my printer, poof not working
+darwin188 -- try running the dpkg command that you just ran.
+etc..
+so grub is poop
+wait a sec
+!!!!!!!!!!!!!
+HellDragon: No idea, try searching at http://ubuntu.cc.com.au/
+darwin188 -- It was asking if you wanted to use the kernnel's framebuffer device
+panic
+!kernel panic
+Did you get hit by a windmill? Try searching at http://ubuntu.cc.com.au/, HellDragon
+yes it asked tath
+Is ubuntu generally good at detecting video cards?  My video card was "detected" but its updating slowly. Any ideas guys?
+Taru: You actually found your way to IRC on your own?
+lol
+amphi ill test another time brb
+Kuja: Yes, it is quite easy actually.
+amphi, can you understand this?: Output from command .. ./settings.conf: line 2: : command not found ./settings.conf: line 10: : command not found ./settings.conf: line 29: : command not found ./settings.conf: line 34: : command not found ./settings.conf: line 36: : command not found usage ./start.sh start|stop|r
